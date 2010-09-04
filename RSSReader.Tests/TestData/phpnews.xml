@@ -1,0 +1,191 @@
+﻿<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+    <channel rdf:about="http://www.php.net/">
+        <title>PHP: Hypertext Preprocessor</title>
+        <link>http://www.php.net/</link>
+        <description>The PHP scripting language web site</description>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-12-17-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-11-19-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-09-17-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-07-30-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-07-16-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-07-09-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-06-30-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-06-19-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-06-18-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-06-12-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-05-09-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-05-07-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-04-08-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-03-27-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-03-24-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-03-10-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2009-02-26-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2008-12-10-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2008-12-08-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2008-12-07-1" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2008-12-04-2" />
+                <rdf:li rdf:resource="http://www.php.net/index.php#id2008-12-04-1" />
+            </rdf:Seq>
+        </items>
+    </channel>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-12-17-1">
+        <title>PHP 5.2.12 Released!</title>
+        <link>http://www.php.net/index.php#id2009-12-17-1</link>
+        <description>The PHP development team would like to announce the immediate availability of PHP 5.2.12. This release focuses on improving the stability of the PHP 5.2.x branch with over 60 bug fixes, some of which are security related. All users of PHP 5.2 are encouraged to upgrade to this release. Security Enhancements and Fixes in PHP 5.2.12:Fixed a safe_mode bypass in tempnam() identified by Grzegorz Stachowiak. (CVE-2009-3557, Rasmus)Fixed a open_basedir bypass in posix_mkfifo() identified by Grzegorz Stachowiak. (CVE-2009-3558, Rasmus)Added "max_file_uploads" INI directive, which can be set to limit the number of file uploads per-request to 20 by default, to prevent possible DOS via temporary file exhaustion, identified by Bogdan Calin. (CVE-2009-4017, Ilia)Added protection for $_SESSION from interrupt corruption and improved "session.save_path" check, identified by Stefan Esser. (CVE-2009-4143, Stas)Fixed bug #49785 (insufficient input string validation of htmlspecialchars()). (CVE-2009-4142, Moriyoshi, hello at iwamot dot com) Further details about the PHP 5.2.12 release can be found in the release announcement, and the full list of changes are available in the ChangeLog.</description>
+        <dc:date>2009-12-17</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-11-19-1">
+        <title>PHP 5.3.1 Released!</title>
+        <link>http://www.php.net/index.php#id2009-11-19-1</link>
+        <description>The PHP development team would like to announce the immediate availability of PHP 5.3.1. This release focuses on improving the stability of the PHP 5.3.x branch with over 100 bug fixes, some of which are security related. All users of PHP are encouraged to upgrade to this release.Security Enhancements and Fixes in PHP 5.3.1:Added "max_file_uploads" INI directive, which can be set to limit the number of file uploads per-request to 20 by default, to prevent possible DOS via temporary file exhaustion.Added missing sanity checks around exif processing.Fixed a safe_mode bypass in tempnam().Fixed a open_basedir bypass in posix_mkfifo().Fixed failing safe_mode_include_dir.Further details about the PHP 5.3.1 release can be found in the release announcement, and the full list of changes are available in the ChangeLog.</description>
+        <dc:date>2009-11-19</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-09-17-1">
+        <title>PHP 5.2.11 Released!</title>
+        <link>http://www.php.net/index.php#id2009-09-17-1</link>
+        <description>The PHP development team would like to announce the immediate availability of PHP 5.2.11. This release focuses on improving the stability of the PHP 5.2.x branch with over 75 bug fixes, some of which are security related. All users of PHP 5.2 are encouraged to upgrade to this release. Security Enhancements and Fixes in PHP 5.2.11:Fixed certificate validation inside php_openssl_apply_verification_policy. (Ryan Sleevi, Ilia)Fixed sanity check for the color index in imagecolortransparent(). (Pierre)Added missing sanity checks around exif processing. (Ilia)Fixed bug #44683 (popen crashes when an invalid mode is passed). (Pierre) Further details about the PHP 5.2.11 release can be found in the release announcement, and the full list of changes are available in the ChangeLog.</description>
+        <dc:date>2009-09-17</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-07-30-1">
+        <title>PHP TestFest 2009 Winners</title>
+        <link>http://www.php.net/index.php#id2009-07-30-1</link>
+        <description>A group of winners of PHP elePHPhants or TestFest mugs have been picked at random from the people that contributed the 887 tests during the 2009 PHP TestFest. Winners of elePHPhantsMark Schaschke TestFest London May 2009Patrick Allaert Belgian PHP Testfest 2009Rafael Dohms testfest PHPSP on 2009-06-20Guilherme Blanco testfest PHPSP on 2009-06-20Fabio Fabbrucci Italian PHP TestFest 2009 Cesena 19-20-21 juneRodrigo Moyle testfest PHPSP on 2009-06-20Edgar Ferreira da Silva testfest PHPSP on 2009-06-20Marco Fabbri PHPTestFest Cesena Italia on 2009-06-20Jason Easter Testfest 2009 2009-06-20Simon Westcott PHPNW Testfest 2009Winners of mugsTim Eggert Testfest Berlin 2009-05-09Till Klampaeckel TestFest 2009Havard Eide Norway 2009-06-09 \o/Ŕlex Corretgé - CataloniaFrancesco Fullone TestFest Cesena Italia on 2009-06-20Ivan Rosolen testfest PHPSP on 2009-06-20Moritz Neuhaeuser Testfest Berlin 2009-05-10Daniel Convissor TestFest 2009 NYPHPMatt Raines testfest London 2009-05-09Winners will be contacted shortly. Once again a huge thank you! to everyone who helped to make this year's TestFest such an outstanding success!</description>
+        <dc:date>2009-07-30</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-07-16-1">
+        <title>Subversion Migration Complete</title>
+        <link>http://www.php.net/index.php#id2009-07-16-1</link>
+        <description>The migration from CVS to Subversion is complete. The web interface is at svn.php.net. You can read about it at php.net/svn.php, wiki.php.net/vcs/svnfaq. The URL to feed to your svn client is http://svn.php.net/repository. There is also a github mirror. Please use that instead of trying to do a full git clone from the svn repository. See the instructions at wiki.php.net/vcs/svnfaq#git Many thanks to Gwynne who did the bulk of the work and also all the other folks who pitched in. It was a major effort to move 14 years of CVS history to another RCS.</description>
+        <dc:date>2009-07-16</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-07-09-1">
+        <title>2009 PHP TestFest</title>
+        <link>http://www.php.net/index.php#id2009-07-09-1</link>
+        <description>So finally we are at the end of the 2009 PHP TestFest. It has been an outstanding success with the coverage increasing by about 2.5% overall and 887 new tests contributed in the TestFest SVN repository of which 637 have already been added to PHP CVS. User groups from all over the world have worked hard to make this happen and we thank each and every one of you for your contribution to PHP! You really made a difference to the PHP5.3 release quality. There still are few loose ends to tie up - the TestFest SVN repository will be closed for contributions later this week and the last few tests will be moved into the main PHP repository. Finally, we have 10 elePHPants and 9 TestFest mugs to give out. The winners of mugs and elePHPants will be drawn at random from a list of people who wrote tests; the winner's names will be announced later this month. For those that would like to continue to make a difference by writing tests there are two options. You can simply continue by submitting new tests to the QA mailing list, or, if you have written a significant number of tests you might consider applying for your own PHP CVS (or SVN) ID. In your application you should reference the tests that you have written in support of your application. Last but not least, we would like to thank all of the companies and institutions that sponsored TestFest. These include Combell, Corretgé, Faculdade Impacta de Tecnologia, IBM, iBuildings, Itera, Mayflower, Microsoft, Nexen (Alter Way Group), php|architect, Redpill-Linpro, Steinigke Showtechnic, Verges Council and Zend.</description>
+        <dc:date>2009-07-09</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-06-30-1">
+        <title>PHP 5.3.0 Released!</title>
+        <link>http://www.php.net/index.php#id2009-06-30-1</link>
+        <description>The PHP development team is proud to announce the immediate release of PHP 5.3.0. This release is a major improvement in the 5.X series, which includes a large number of new features and bug fixes. Some of the key new features include: namespaces, late static binding, closures, optional garbage collection for cyclic references, new extensions (like ext/phar, ext/intl and ext/fileinfo), over 140 bug fixes and much more. For users upgrading from PHP 5.2 there is a migration guide available here, detailing the changes between those releases and PHP 5.3.0. Further details about the PHP 5.3.0 release can be found in the release announcement, and the full list of changes are available in the ChangeLog.</description>
+        <dc:date>2009-06-30</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-06-19-1">
+        <title>PHP 5.3.0RC4 Release Announcements</title>
+        <link>http://www.php.net/index.php#id2009-06-19-1</link>
+        <description>The PHP development team is proud to announce the fourth release candidate of PHP 5.3.0 (PHP 5.3.0RC4). This RC focuses on bug fixes and stability improvements, and we hope only minimal changes are required for the next candidate or final stable releases. PHP 5.3.0 is a newly developed version of PHP featuring long-awaited features like namespaces, late static binding, closures and much more. Please download and test these release candidates, and report any issues found. A stable release is expected next week . In case of critical issues we will continue producing weekly RCs. Downloads and further information is available at qa.php.net. See also the work in progress 5.3 upgrade guide.</description>
+        <dc:date>2009-06-19</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-06-18-1">
+        <title>PHP 5.2.10 Released!</title>
+        <link>http://www.php.net/index.php#id2009-06-18-1</link>
+        <description>The PHP development team would like to announce the immediate availability of PHP 5.2.10. This release focuses on improving the stability of the PHP 5.2.x branch with over 100 bug fixes, one of which is security related. All users of PHP are encouraged to upgrade to this release. Security Enhancements and Fixes in PHP 5.2.10:Fixed bug #48378 (exif_read_data() segfaults on certain corrupted .jpeg files). (Pierre) Further details about the PHP 5.2.10 release can be found in the release announcement, and the full list of changes are available in the ChangeLog.</description>
+        <dc:date>2009-06-19</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-06-12-1">
+        <title>PHP 5.2.10RC2 and PHP 5.3.0RC3 Release Announcements</title>
+        <link>http://www.php.net/index.php#id2009-06-12-1</link>
+        <description>The PHP development team is proud to announce the second release candidate of PHP 5.2.10 (PHP 5.2.10RC2) and the third release candidate of PHP 5.3.0 (PHP 5.3.0RC3). These RCs focuses on bug fixes and stability improvements, and we hope only minimal changes are required for the next candidate or final stable releases. PHP 5.2.10 is a pure maintenance release for providing bugfixes and stability updates. PHP 5.3.0 is a newly developed version of PHP featuring long-awaited features like namespaces, late static binding, closures and much more. Please download and test these release candidates, and report any issues found. Downloads and further information is available at qa.php.net. See also the work in progress 5.3 upgrade guide.</description>
+        <dc:date>2009-06-12</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-05-09-1">
+        <title>TestFest 2009</title>
+        <link>http://www.php.net/index.php#id2009-05-09-1</link>
+        <description>TestFest is upon us once again. For those who don't know, this is the time of year where User Groups and individuals donate a little of their time and effort to increasing the test coverage of PHP. Hundreds of thousands of lines of code are working in concert to assemble one of the simplest to learn and fastest running scripting languages in the business. All this is achieved with the expectation that very few bugs will make it into releases and the ones that do will be stomped out quickly, efficiently and will never be heard from again. This is a lofty goal and is only possible through a system of tests designed to continuously evaluate the well-being of PHP. This year the QA Team has been very busy implementing new features and improvements to make the TestFest experience easier and more enjoyable than ever before. Some these improvements include a Subversion repository for test storage and tracking, a Virtual Machine for simple test environment setup, and improved documentation of testing procedures. 2009 is looking to be the most successful TestFest event ever. Over 20 User Groups spanning Belgium, Brazil, Catalonia, Canada, France, Germany, Ireland, Italy, Netherlands, Norway, Peru, USA and the UK have already registered. This is an incredible response and we still have 2 months left to go. Getting involved couldn't be simpler. Visit the QA TestFest page to find out how you can organize a TestFest event in your community. We are looking forward to seeing your communities tests being committed into PHP.</description>
+        <dc:date>2009-05-09</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-05-07-1">
+        <title>PHP 5.3.0RC2 Release Announcement</title>
+        <link>http://www.php.net/index.php#id2009-05-07-1</link>
+        <description>The PHP development team is proud to announce the second release candidate of PHP 5.3.0 (PHP 5.3.0RC2). This RC focuses on bug fixes and stability improvements, and we hope only minimal changes are required for the next candidate (RC3). Expect an RC3 in 2-3 weeks, although there will not be major changes so now is a good time to start the final testing of PHP 5.3.0 before it gets released, in order to find possible incompatibilities with your project. Please download and test this release candidate, and report any issues found. Downloads and further information is available at qa.php.net. See also the work in progress 5.3 upgrade guide.</description>
+        <dc:date>2009-05-07</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-04-08-1">
+        <title>PHP 5.2.9-2 (Windows) released</title>
+        <link>http://www.php.net/index.php#id2009-04-08-1</link>
+        <description>The PHP Development Team would like to announce the availability of a new Windows build for PHP - PHP 5.2.9-2This release focuses on fixing security flaws in the included OpenSSL library (CVE-2009-0590, CVE-2009-0591 and CVE-2009-0789). The security advisory is available here.The OpenSSL library has been updated to 0.9.8k, which includes fixes for these flaws.Note: Only the Windows binaries are affected. There are no changes to the PHP sources, therefore no source releases are necessary.Updated 9th of April: Added the missing OCI8 DLL</description>
+        <dc:date>2009-04-09</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-03-27-1">
+        <title>Google Summer of Code 2009</title>
+        <link>http://www.php.net/index.php#id2009-03-27-1</link>
+        <description>Once again we are happy to announce our involvement with the Google Summer of Code project. Be sure to check our program at this years GSoC. We invite everyone to look at the list of ideas for this years GSoC, and get involved. Students are welcome to propose their own ideas, and we will consider all applications that are received before the April 3rd deadline. So, thanks to everyone involved and we look forward to seeing many students join us on this great adventure!</description>
+        <dc:date>2009-03-27</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-03-24-1">
+        <title>PHP 5.3.0RC1 Release Announcement</title>
+        <link>http://www.php.net/index.php#id2009-03-24-1</link>
+        <description>The PHP development team is proud to announce the availability of the first release candidate of PHP 5.3.0 (PHP 5.3.0RC1). This release marks the final phase in a major improvement in the 5.X series, which includes a large number of new features, bug fixes and security enhancements.The key features of the PHP 5.3 branch include:Support for namespacesUnder the hood performance improvementsLate static bindingLambda functions and closures Syntax additions: NOWDOC, limited GOTO, ternary short cut "?:" and __callStatic() Optional garbage collection for cyclic referencesOptional mysqlnd PHP native replacement for libmysqlImproved windows support including VC6 and VC9 binariesMore consistent float roundingDeprecation notices are now handle via E_DEPRECATED (part of E_ALL) instead of the E_STRICT error levelSeveral enhancements to enable more flexiblity in php.ini (and ini parsing in general)New bundled extensions: ext/phar, ext/intl, ext/fileinfo, ext/sqlite3, ext/enchant Countless bug fixes and improvements to existing extensions in particular to: ext/openssl, ext/spl and ext/date This release also drops several extensions and unifies usage of internal APIs. Users should be aware of the following known backwards compatibility breaks:Parameter parsing API unification will cause some functions to behave more or less strict when it comes to type jugglingRemoved the following extensions: ext/mhash (see ext/hash), ext/msql, ext/pspell (see ext/enchant), ext/sybase (see ext/sybase_ct) Moved the following extensions to PECL: ext/ming, ext/fbsql, ext/ncurses, ext/fdf Removed zend.ze1_compatibility_modeSee the upgrading guide for other minor changesAll users of PHP, especially those using earlier PHP 5 releases are advised to test this release as the final release of PHP 5.3.0 will eventually obsolete the 5.2 branch of PHP.For users upgrading from previous PHP 5 releases there is an upgrading guide available here, detailing the changes between those releases and PHP 5.3.0.Please also note that we are aware of issues surrounding float/integer handling in some edge cases (some of which have been introduced in PHP 5.2.0), as well as a crash bug in NSAPI, that will be fixed in PHP 5.3.0RC2. These issues however do not prevent wide spread testing of PHP 5.3.0RC1 as users can now rely on the feature set and implementation decisions no longer being changed.For a full list of changes in PHP 5.3.0, see the CVS NEWS file.</description>
+        <dc:date>2009-03-25</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-03-10-1">
+        <title>5.2.9-1 (for Windows) released</title>
+        <link>http://www.php.net/index.php#id2009-03-10-1</link>
+        <description>The PHP Development Team would like to announce the availability of a new Windows build of PHP - PHP 5.2.9-1This release focuses on fixing a security flaw introduced by the cURL library (CVE-2009-0037). Please see the following for a full description: http://curl.haxx.se/docs/adv_20090303.htmlPlease note that the cURL related function is disabled when open_basedir or safe_mode enabled.Note: Only the Windows packages are affected.</description>
+        <dc:date>2009-03-10</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2009-02-26-1">
+        <title>PHP 5.2.9 Released!</title>
+        <link>http://www.php.net/index.php#id2009-02-26-1</link>
+        <description>The PHP development team would like to announce the immediate availability of PHP 5.2.9. This release focuses on improving the stability of the PHP 5.2.x branch with over 50 bug fixes, several of which are security related. All users of PHP are encouraged to upgrade to this release.Security Enhancements and Fixes in PHP 5.2.9:Fixed security issue in imagerotate(), background colour isn't validated correctly with a non truecolour image. Reported by Hamid Ebadi, APA Laboratory (Fixes CVE-2008-5498). (Scott)Fixed a crash on extract in zip when files or directories entry names contain a relative path. (Pierre)Fixed explode() behavior with empty string to respect negative limit. (Shire)Fixed a segfault when malformed string is passed to json_decode(). (Scott)Further details about the PHP 5.2.9 can be found in the release announcement for 5.2.9 the full list of changes is available in the ChangeLog for PHP 5.</description>
+        <dc:date>2009-02-26</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2008-12-10-1">
+        <title>Windows PECL binaries</title>
+        <link>http://www.php.net/index.php#id2008-12-10-1</link>
+        <description>Due to unfortunate circumstances Windows binaries for PECL extensions will no longer be available on http://pecl4win.php.net.Work is being done to incorporate Windows binaries for PECL extensions into pecl.php.net and will hopefully be ready during the 1st quarter 2009</description>
+        <dc:date>2008-12-10</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2008-12-08-1">
+        <title>PHP 5.2.8 Released!</title>
+        <link>http://www.php.net/index.php#id2008-12-08-1</link>
+        <description>The PHP Development Team would like to announce the immediate availability of PHP 5.2.8. This release addresses a regression introduced by 5.2.7 in regard to the magic_quotes functionality, which was broken by an incorrect fix to the filter extension. All users who have upgraded to 5.2.7 are encouraged to upgrade to this release. Alternatively you can apply a work-around for the bug by changing "filter.default_flags=0" in php.ini.</description>
+        <dc:date>2008-12-08</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2008-12-07-1">
+        <title>PHP 5.2.7 has been removed from distribution</title>
+        <link>http://www.php.net/index.php#id2008-12-07-1</link>
+        <description>Due to a security bug found in the PHP 5.2.7 release, it has been removed from distribution. The bug affects configurations where magic_quotes_gpc is enabled, because it remains off even when set to on. In the meantime, use PHP 5.2.6 until PHP 5.2.8 is later released.</description>
+        <dc:date>2008-12-08</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2008-12-04-2">
+        <title>PHP 5.3 alpha3 released!</title>
+        <link>http://www.php.net/index.php#id2008-12-04-2</link>
+        <description>The PHP development team is proud to announce the third alpha release of the upcoming PHP 5.3.0 minor version update of PHP. Several new features have already been documented in the official documentation, others are listed on the wiki in preparation of getting documented. It is imperative that more people join the effort to complete the documentation for PHP 5.3.0. Please also review the NEWS file.THIS IS A DEVELOPMENT PREVIEW - DO NOT USE IT IN PRODUCTION!The purpose of this alpha release is to encourage users to not only actively participate in identifying bugs, but also in ensuring that all new features or necessary backwards compatibility breaks are noted in the documentation. Please report any findings to the QA mailinglist or the bug tracker.There have been a great number of other additions and improvements since the last alpha, but here is a short overview of the most important changes:Namespaces (documentation has been updated to the current state)Rounding behaviorext/msql has been removed, while ext/ereg will now raise E_DEPRECATED noticesext/mhash has been replaced by ext/hash but full BC is maintainedPHP now uses cc as the default compiler, instead of gccA number of bug fixes to ext/pdo, ext/soap, the stream layer among othersSeveral under the hood changes also require in depth testing with existing applications to ensure that any backwards compatibility breaks are minimized.The current release plan expects a stable release sometime around the end of Q1 2009.</description>
+        <dc:date>2008-12-04</dc:date>
+    </item>
+
+    <item rdf:about="http://www.php.net/index.php#id2008-12-04-1">
+        <title>PHP Advent 2008</title>
+        <link>http://www.php.net/index.php#id2008-12-04-1</link>
+        <description>December is a busy and exciting time of the year. PHP Advent is an attempt to capture and share doses of wisdom from a few of the people in the PHP community who have been kind enough to share their thoughts and tips. Please join us on our daily journey by subscribing to our feed or following us on Twitter. Happy holidays.</description>
+        <dc:date>2008-12-04</dc:date>
+    </item>
+</rdf:RDF>

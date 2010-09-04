@@ -1,0 +1,370 @@
+﻿<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>BBC News | News Front Page | UK Edition</title>
+        <link>http://news.bbc.co.uk/go/rss/-/1/hi/default.stm</link>
+        <description>Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.</description>
+        <language>en-gb</language>
+        <lastBuildDate>Sat, 19 Dec 2009 10:56:25 GMT</lastBuildDate>
+        <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/1/hi/help/rss/4498287.stm for terms and conditions of reuse</copyright>
+        <docs>http://www.bbc.co.uk/syndication/</docs>
+        <ttl>15</ttl>
+        <image>
+            <title>BBC News</title>
+            <url>http://news.bbc.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/default.stm</link>
+        </image>
+        <item>
+            <title>UN welcomes climate summit deal</title>
+            <description>The UN Secretary General Ban Ki-moon welcomes a climate deal in Copenhagen but says it must be made legally binding.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/sci/tech/8422133.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/sci/tech/8422133.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:51:58 GMT</pubDate>
+            <category>Science &amp; Environment</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46957000/jpg/_46957070_008442887-2.jpg"/>
+        </item>
+        <item>
+            <title>Tunnel breakdown traps thousands</title>
+            <description>More than 2,000 people spend hours trapped in the Channel Tunnel after trains break down due to cold weather.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/uk/8421875.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/uk/8421875.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:31:55 GMT</pubDate>
+            <category>UK</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46715000/jpg/_46715803_eurostar1.jpg"/>
+        </item>
+        <item>
+            <title>Ex-Lion Thomas reveals he is gay</title>
+            <description>Former Wales and Lions captain Gareth Thomas breaks one of the major taboos surrounding sport by announcing he is gay.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/sport1/hi/rugby_union/welsh/8421956.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/rugby_union/welsh/8421956.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:50:15 GMT</pubDate>
+            <category>Welsh</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956275_alfiegutted_huw.jpg"/>
+        </item>
+        <item>
+            <title>UK soldier killed in Afghanistan</title>
+            <description>A British soldier has been killed in Afghanistan, the Ministry of Defence has confirmed.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/8422235.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/8422235.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:48:13 GMT</pubDate>
+            <category>World</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/45343000/gif/_45343197_breaking_66x49_2.gif"/>
+        </item>
+        <item>
+            <title>Snow leads to further disruption</title>
+            <description>Severe weather conditions cause travel disruption for a second day in the south and east of England, with more snow forecast across the UK.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/uk/8422048.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/uk/8422048.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 09:47:57 GMT</pubDate>
+            <category>UK</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956637_tonbridge_kent_duncan-penfo.jpg"/>
+        </item>
+        <item>
+            <title>Iraq tells Iran to leave border </title>
+            <description>Iraq demands the withdrawal of Iranian troops it says have crossed into Iraqi territory and taken control of an oil well.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/middle_east/8421971.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/middle_east/8421971.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 00:19:55 GMT</pubDate>
+            <category>Middle East</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46951000/gif/_46951032_iraq_6649.gif"/>
+        </item>
+        <item>
+            <title>Outcry over skills body bonuses </title>
+            <description>
+                The Conservatives attack the payment of &#163;5m in bonuses to staff at a funding body criticised for poor management in a report.
+            </description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/education/8420556.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/education/8420556.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 00:39:55 GMT</pubDate>
+            <category>Education</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/45580000/jpg/_45580237_souththamesdigger2.jpg"/>
+        </item>
+        <item>
+            <title>Web stores warned on sales rules</title>
+            <description>Thousands of internet retailers may be breaking laws set up to protect their customers, says consumer group Which?.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/business/8421714.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/business/8421714.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 23:49:47 GMT</pubDate>
+            <category>Business</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/45759000/jpg/_45759655_004025620-1.jpg"/>
+        </item>
+        <item>
+            <title>Hunt for Auschwitz sign thieves</title>
+            <description>Polish police use a sniffer dog in a bid to find thieves who took the infamous Arbeit Macht Frei sign from Auschwitz.  </description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/europe/8421988.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/europe/8421988.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 01:40:30 GMT</pubDate>
+            <category>Europe</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956297_008442518-1.jpg"/>
+        </item>
+        <item>
+            <title>Whisky effects 'worse than vodka'</title>
+            <description>A study suggests vodka produces less of a hangover than whisky - but has the same effect on performance at work.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/health/8416431.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/health/8416431.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 00:00:43 GMT</pubDate>
+            <category>Health</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46933000/jpg/_46933226_008405299-1.jpg"/>
+        </item>
+        <item>
+            <title>Hollins and Whittle ready for Strictly showdown</title>
+            <description>Strictly Come Dancing finalists Chris Hollins and Ricky Whittle are preparing to battle it out to be crowned king of the ballroom later.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/entertainment/8422140.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/entertainment/8422140.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 09:49:29 GMT</pubDate>
+            <category>Entertainment</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46957000/jpg/_46957109_whittel_hollins66.jpg"/>
+        </item>
+        <item>
+            <title>Fabio Capello opens Birmingham coach station</title>
+            <description>An unlikely candidate turns up to officially open Birmingham's Digbeth Coach Station - England manager Fabio Capello.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/england/west_midlands/8421368.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/england/west_midlands/8421368.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 18:13:46 GMT</pubDate>
+            <category>West Midlands</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46954000/jpg/_46954979_capello_digbeth_4.jpg"/>
+        </item>
+        <item>
+            <title>Live - South Africa v England</title>
+            <description>James Anderson dismisses nightwatchmen Paul Harris as England strike early on day four of the first Test.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/sport1/hi/cricket/8421457.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/cricket/8421457.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 08:08:44 GMT</pubDate>
+            <category>Cricket</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956840_onions226x170.jpg"/>
+        </item>
+        <item>
+            <title>Schumacher close to Mercedes deal</title>
+            <description>Ferrari president Luca di Montezemolo says Michael Schumacher has told him he intends to make a Formula 1 comeback with Mercedes next season.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/sport1/hi/motorsport/formula_one/8420601.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8420601.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 17:30:01 GMT</pubDate>
+            <category>Formula 1</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956122_schumacher_index.jpg"/>
+        </item>
+        <item>
+            <title>Watford saved from administration</title>
+            <description>Watford avoid the threat of administration after majority shareholder Lord Ashcroft agrees to repays former chairman Jimmy Russo &#163;4.88m.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/sport1/hi/football/teams/w/watford/8418667.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/8418667.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:00:20 GMT</pubDate>
+            <category>Watford</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/44936000/gif/_44936486_watford_66x49.gif"/>
+        </item>
+        <item>
+            <title>What do you think of the Copenhagen deal?</title>
+            <description>Delegates at the climate summit have passed a motion recognising a US-backed agreement on climate change. Is it a fair deal?</description>
+            <link>http://newsforums.bbc.co.uk/nol/thread.jspa?forumID=7356</link>
+            <guid isPermaLink="false">http://newsforums.bbc.co.uk/nol/thread.jspa?forumID=7356</guid>
+            <pubDate>Fri, 18 Dec 2009 22:42:28 GMT</pubDate>
+            <category>Talking Point</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46877000/jpg/_46877165_008371507-1.jpg"/>
+        </item>
+        <item>
+            <title>Space sailing</title>
+            <description>Daring plan to float a boat on Saturn's moon Titan</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/sci/tech/8409052.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/sci/tech/8409052.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 09:22:32 GMT</pubDate>
+            <category>Science &amp; Environment</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956187_titan.jpg"/>
+        </item>
+        <item>
+            <title>11th hour deals</title>
+            <description>Why do summits always end in tense stand-offs?</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/magazine/8418191.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/magazine/8418191.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 12:24:36 GMT</pubDate>
+            <category>Magazine</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46949000/jpg/_46949433_clock_126_jupiter.jpg"/>
+        </item>
+        <item>
+            <title>To the rescue</title>
+            <description>Air ambulances fly to the aid of road crash victims</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/uk/8421281.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/uk/8421281.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 16:45:21 GMT</pubDate>
+            <category>UK</category>
+        </item>
+        <item>
+            <title>Tailspin</title>
+            <description>Bad times for pigeon lovers in Bangladesh</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/south_asia/8419116.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/south_asia/8419116.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 01:08:22 GMT</pubDate>
+            <category>South Asia</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46943000/jpg/_46943835_pigeon_man.jpg"/>
+        </item>
+        <item>
+            <title>In pictures</title>
+            <description>
+                Swedish car brand Saab through the years
+            </description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/business/8421576.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/business/8421576.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 17:19:18 GMT</pubDate>
+            <category>Business</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46955000/jpg/_46955035_000104606-1.jpg"/>
+        </item>
+        <item>
+            <title>10 things</title>
+            <description>3.8 million cheques written every day and nine more facts</description>
+            <link>http://www.bbc.co.uk/go/rss/-/blogs/magazinemonitor/</link>
+            <guid isPermaLink="false">http://www.bbc.co.uk/blogs/magazinemonitor/</guid>
+            <pubDate>Tue, 24 Nov 2009 15:52:25 GMT</pubDate>
+            <category>Politics</category>
+        </item>
+        <item>
+            <title>Man on care home murder charge</title>
+            <description>An 82-year-old man from Devon is due before magistrates later charged with murdering a fellow care home resident.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/england/devon/8422114.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/england/devon/8422114.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 09:58:39 GMT</pubDate>
+            <category>Devon</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46944000/jpg/_46944797_oap2.jpg"/>
+        </item>
+        <item>
+            <title>Study reveals best place to live</title>
+            <description>Aberdeenshire offers the best quality of life in Scotland for its "healthy and wealthy" residents, according to a survey.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/scotland/north_east/8421193.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/scotland/north_east/8421193.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 00:25:37 GMT</pubDate>
+            <category>North East/N Isles</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46953000/jpg/_46953673_fraserburgh_undiscovered_66.jpg"/>
+        </item>
+        <item>
+            <title>Sprinklers in new homes proposal</title>
+            <description>Sprinkler systems could be installed in all newly built homes in Wales after a 'Welsh law' request was supported by MPs.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/wales/8421777.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/wales/8421777.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 09:33:11 GMT</pubDate>
+            <category>Wales</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46955000/jpg/_46955830_housefire.jpg"/>
+        </item>
+        <item>
+            <title>Jail note planted claim examined</title>
+            <description>An investigation is to be launched into claims that prison staff planted a note with the details of the governor in a cell.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/northern_ireland/8421519.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/northern_ireland/8421519.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 18:00:27 GMT</pubDate>
+            <category>Northern Ireland</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46954000/jpg/_46954597_cell.jpg"/>
+        </item>
+        <item>
+            <title>Nigeria rebels in oil pipe attack</title>
+            <description>Niger delta rebels say they have attacked an oil pipeline, putting a two-month truce with Nigeria's government in doubt.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/africa/8422165.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/africa/8422165.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:53:44 GMT</pubDate>
+            <category>Africa</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46957000/jpg/_46957117_007548965-1.jpg"/>
+        </item>
+        <item>
+            <title>US in 'al-Qaeda cocaine sting' </title>
+            <description>A US court accuses three Africans of plotting to traffic cocaine across the Sahara in order to fund al-Qaeda. </description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/americas/8422010.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/americas/8422010.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 04:19:39 GMT</pubDate>
+            <category>Americas</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956319_002446894-1.jpg"/>
+        </item>
+        <item>
+            <title>Lebanese PM in key visit to Syria</title>
+            <description>Lebanese PM Saad Hariri is to hold talks in Damascus for the first time since his anti-Syrian coalition came to power in 2005.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/middle_east/8422099.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/middle_east/8422099.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:11:21 GMT</pubDate>
+            <category>Middle East</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46699000/jpg/_46699460_008254059-1.jpg"/>
+        </item>
+        <item>
+            <title>Cambodia to expel China Uighurs</title>
+            <description>A group of 20 Chinese Uighurs who fled to Cambodia after ethnic riots in July will be expelled, a Cambodian official says.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/asia-pacific/8422022.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/asia-pacific/8422022.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 05:27:43 GMT</pubDate>
+            <category>Asia-Pacific</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46535000/jpg/_46535616_courtguard_ap.jpg"/>
+        </item>
+        <item>
+            <title>Balkan states' travel to EU eased</title>
+            <description>Citizens of Serbia, Macedonia and Montenegro can now travel visa-free to all countries that have signed the Schengen Agreement.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/europe/8420513.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/europe/8420513.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 07:58:05 GMT</pubDate>
+            <category>Europe</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46060000/jpg/_46060603_-4.jpg"/>
+        </item>
+        <item>
+            <title>Karzai presents cabinet nominees</title>
+            <description>Afghan President Hamid Karzai presents his cabinet nominees to parliament, amid close Western scrutiny over corruption.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/world/south_asia/8422058.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/world/south_asia/8422058.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 08:51:08 GMT</pubDate>
+            <category>South Asia</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956619_008444927-1.jpg"/>
+        </item>
+        <item>
+            <title>City 'will be hurt by bonus tax'</title>
+            <description>London's role as a leading financial hub will be "damaged" by the new bonus tax, Barclays chief John Varley tells the BBC.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/business/8421312.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/business/8421312.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 17:00:16 GMT</pubDate>
+            <category>Business</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46699000/jpg/_46699608_004381496-1.jpg"/>
+        </item>
+        <item>
+            <title>Brown seeks binding climate deal</title>
+            <description>Prime Minister Gordon Brown, speaking at the Copenhagen summit, says he had sought a 'legally binding'  climate treaty.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/uk_politics/8421945.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/uk_politics/8421945.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:30:23 GMT</pubDate>
+            <category>Politics</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46638000/jpg/_46638771_008081992-1.jpg"/>
+        </item>
+        <item>
+            <title>Wales seeks organ opt-out powers</title>
+            <description>Wales may become the first part of the UK to introduce an opt-out system of organ donation under assembly government plans.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/wales/8420678.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/wales/8420678.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 15:00:20 GMT</pubDate>
+            <category>Wales</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46953000/jpg/_46953793_donorcard_bbc_226.jpg"/>
+        </item>
+        <item>
+            <title>36,000 pupils take new Diplomas</title>
+            <description>Official figures show more teenagers are taking new Diploma courses in England.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/education/8421186.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/education/8421186.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 15:53:26 GMT</pubDate>
+            <category>Education</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/45631000/jpg/_45631130_bricklaying66.jpg"/>
+        </item>
+        <item>
+            <title>Data to expose 'ghost mountains'</title>
+            <description>Scientists who have mapped one of the most enigmatic mountain ranges on Earth give a first glimpse of their data.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/sci/tech/8420837.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/sci/tech/8420837.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 17:25:40 GMT</pubDate>
+            <category>Science &amp; Environment</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46951000/jpg/_46951065_illus_ms_49_index.jpg"/>
+        </item>
+        <item>
+            <title>O'Grady marks end of chat series</title>
+            <description>TV presenter Paul O'Grady pays an emotional farewell to his Channel 4 chat show on Friday when it came to an end.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/entertainment/8422163.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/entertainment/8422163.stm</guid>
+            <pubDate>Sat, 19 Dec 2009 10:53:01 GMT</pubDate>
+            <category>Entertainment</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46956000/jpg/_46956940_paul_pa66i.jpg"/>
+        </item>
+        <item>
+            <title>'Iranian cyber army' hits Twitter</title>
+            <description>Micro blogging service Twitter has been left red-faced after being  hit by cyber-terrorists.</description>
+            <link>http://news.bbc.co.uk/go/rss/-/1/hi/technology/8420233.stm</link>
+            <guid isPermaLink="false">http://news.bbc.co.uk/1/hi/technology/8420233.stm</guid>
+            <pubDate>Fri, 18 Dec 2009 10:42:30 GMT</pubDate>
+            <category>Technology</category>
+            <media:thumbnail width="66" height="49" url="http://newsimg.bbc.co.uk/media/images/46946000/jpg/_46946789_twithack-twitter66.jpg.jpg"/>
+        </item>
+    </channel>
+</rss>

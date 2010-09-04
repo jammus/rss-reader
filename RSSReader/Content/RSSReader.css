@@ -1,0 +1,204 @@
+﻿body
+{
+    background-color: #F7F7F6;
+}
+
+#header
+{
+    background-color: #222;
+    background-image: url(images/header_bg.gif);
+    background-repeat: repeat-x;
+    padding-top: 10px;
+}
+
+#header h1 a
+{
+    color: #eee;
+    text-decoration:none;
+}
+
+.splashcontainer {
+    background-image:url(images/splashback.png);
+    width:100%;
+    height:180px;
+    background-repeat:repeat-x;
+}
+
+.splash {
+    background-image:url(images/splash.png);
+    width:100%;
+    padding-top:80px;
+    height:100px;
+    background-repeat:no-repeat;
+    font-size:large;
+}
+
+.featuresetc {
+    margin-top:20px;
+}
+
+.featuresetc h3 {
+    color:#a00;
+}
+
+.featuresetc ul {
+    color:#a00;
+    padding-left:15px;
+    font-weight:bold;
+}
+
+.featuresetc ul li {
+    padding:3px 0px;
+}
+
+#logindisplay {
+    color:#fff;
+    text-align:right;
+}
+
+#logindisplay a {
+    color:#a00;
+}
+
+#main
+{
+    background-image: url(images/body_bg.gif);
+    background-repeat: repeat-x;
+}
+
+.reader
+{
+    margin-top: 10px;
+    background-color: #d9d7d0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 2px 2px 2px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 2px 2px 2px;
+}
+
+#main .container
+{
+    height: 700px;
+}
+
+#feedListPanel
+{
+    
+}
+
+#feedListPanel .feeds
+{
+    background-color: #FFFFFF;
+    height: 455px;
+    margin: 10px 0 10px 10px;
+    overflow: auto;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-top-color: Blue;
+    padding: 5px;
+}
+
+#feedListPanel .feeds ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#feedListPanel .controlPanel {
+    padding:0px 10px;
+}
+
+#displayPanel .displayFrameContainer
+{
+    background-color: #fff;
+    margin-bottom: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    width: 730px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#displayPanel iframe
+{
+    width: 100%;
+    height: 350px;
+}
+
+#feedListPanel .controlPanel form
+{
+    float: left;
+}
+
+#feedListPanel .feeds
+{
+    clear: both;
+}
+
+#feedListPanel .feeds ul li {
+    
+}
+
+#feedListPanel .feeds a.feed {
+    padding-bottom:2px;
+    padding-left:20px;
+    background-image:url(images/rss.jpg);
+    background-repeat:no-repeat;
+    display:block;
+    text-decoration:none;
+}
+
+.modalContainer
+{
+    display: none;
+}
+
+.addFailure
+{
+    color: #a00;
+    display: none;
+}
+
+#feedListPanel a.current
+{
+    font-weight: bold;
+}
+
+#channelPanel .newsItem a {
+    text-decoration:none;
+    color:#000;
+    font-weight:bold;
+}
+
+#channelPanel .newsItem .date
+{
+    text-align:right;
+}
+
+.channelPanelContainer,
+.blankStateContainer
+{
+    background-color: #fff;
+    width: 730px;
+    margin-top: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background-color: #fff;
+    padding: 5px;
+    height: 115px;
+}
+
+.channelPanelBody
+{
+    height: 110px;
+    overflow: auto;
+    width: 730px;
+}
+
+form fieldset label {
+    width:140px;
+    float:left;
+    padding-top:6px;
+}

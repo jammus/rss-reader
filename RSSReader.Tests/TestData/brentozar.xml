@@ -1,0 +1,486 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+
+    <channel>
+        <title>Brent Ozar - Too Much Information</title>
+
+        <link>http://www.brentozar.com</link>
+        <description>SQL Server databases, cloud services, virtualization, community building, and Twitter.</description>
+        <lastBuildDate>Fri, 18 Dec 2009 15:00:27 +0000</lastBuildDate>
+        <generator>http://wordpress.org/?v=2.8.6</generator>
+        <language>en</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/BrentOzar-SqlServerDba" />
+        <feedburner:emailServiceId xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">BrentOzar-SqlServerDba</feedburner:emailServiceId>
+        <feedburner:feedburnerHostname xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://feedburner.google.com</feedburner:feedburnerHostname>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com" />
+        <item>
+            <title>Finally got my Microsoft MCITP Certification</title>
+            <link>http://www.brentozar.com/archive/2009/12/finally-got-my-microsoft-mcitp-certification/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/finally-got-my-microsoft-mcitp-certification/#comments</comments>
+            <pubDate>Fri, 18 Dec 2009 15:00:27 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[SQLServerPedia Syndication]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6293</guid>
+            <description><![CDATA[Yes, the guy who wrote that certifications are icing, not cake finally got himself some icing.  I was an MCSE on Windows NT4 in 1999, but I let my certifications lapse over time because I just didn&#8217;t see the value in them.  I&#8217;m not saying I do now &#8211; I only got them because they [...]]]></description>
+            <content:encoded>
+                <![CDATA[><p>Yes, the guy who wrote that <a href="http://www.brentozar.com/archive/2009/04/certifications-are-the-icing-on-the-cake/">certifications are icing, not cake</a> finally got himself some icing.  I was an MCSE on Windows NT4 in 1999, but I let my certifications lapse over time because I just didn&#8217;t see the value in them.  I&#8217;m not saying I do now &#8211; I only got them because they were a prerequisite to apply for the <a href="http://www.microsoft.com/learning/en/us/certification/master.aspx">Microsoft Certified Master program</a> &#8211; but I was pleasantly surprised by the experience.</p> 
+<div id="attachment_6294" class="wp-caption alignright" style="width: 240px"><a href="http://www.flickr.com/photos/bcostin/349864461/"><img class="size-medium wp-image-6294" title="10base2" src="http://i.brentozar.com/wp-content/uploads/2009/12/10base2-230x300.jpg" alt="Blast From the Past" width="230" height="300" /></a><p class="wp-caption-text">Blast From the Past</p></div> 
+<p>I used to despise Microsoft certifications because the questions didn&#8217;t match up with what IT professionals actually did for a living. I vaguely remember the NT4 tests asking what the resistance was, in ohms, for a 10base2 coax network terminator.  I had resistance alright.</p> 
+<p>If there&#8217;s such a thing as a &#8220;typical&#8221; production SQL Server DBA, their job duties include things like:</p> 
+<ul> 
+<li>Backup &amp; recovery</li> 
+<li>Security management</li> 
+<li>Troubleshooting service problems</li> 
+<li>Troubleshooting query problems</li> 
+<li>Designing new systems</li> 
+</ul> 
+<p>All of these require different commands (and sometimes even different tools), all with wildly different syntax.  When I hire a DBA, I don&#8217;t want to know if he&#8217;s memorized the exact syntax for DBCC.  If he has to run DBCC with that many parameters that often, he&#8217;s got a bigger problem, and I want to see him recognize that, and solve that underlying problem.  I don&#8217;t give bonus points for being pretty sure about syntax &#8211; rather, I give bonus points for double-checking the manual every time you do something risky.</p> 
+<p>When I took the <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-432">70-432 exam</a> and <a href="http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-450">70-450 exam</a>, both targeted at production DBAs, I was expecting Trivial Pursuit: SQL Server Edition.  I was completely and totally wrong.  The test questions were meaningful, the answers required thought (not regurgitation), and the questions &#8211; for the most part &#8211; lined up with what production DBAs have to do for a living.</p> 
+<p>Readers, if you&#8217;ve been managing SQL Servers for 2-3 years, and if you need ammunition for your upcoming annual review, go take the 70-432 exam.  It&#8217;s about $125, and I bet a lot of you could probably pass it without studying. And that&#8217;s a good thing, because it measures things production DBAs actually need to know.</p> 
+<h3>How I Prepared for the Exams</h3> 
+<p>I bought the <a href="http://www.selftestsoftware.com/product.aspx?product_id=70-432">Kaplan 70-432 Self Test Software</a> and I was completely disappointed.  They&#8217;re cheap &#8211; less than $50 for the test &#8211; and you still don&#8217;t get what you pay for.  I can say unequivocally that the self-test is no braindump; the questions didn&#8217;t even approximate what was on the exam.  Kaplan&#8217;s questions represented everything I used to hate about the old Microsoft tests, because they focused on obscure trivia.</p> 
+<p>Much more valuable, yet free, are <a href="http://blogs.msdn.com/buckwoody/archive/tags/Certifications/default.aspx">Buck Woody&#8217;s blog posts about certification</a>.  He gathered lots of links to resources covering the 70-432 subject matter.  My advice would be to read those whitepapers &amp; docs, but don&#8217;t try to remember every little configuration option.  Focus on the big picture of why you would implement something or when to use a particular feature.</p> 
+<p>After I passed the 70-432, I decided not to study at all for the 70-450 and just go for it.  My logic was that if the test was anything like the 70-432 and tested &#8220;why&#8221; instead of &#8220;how,&#8221; then I was set.  That paid off &#8211; I passed with a 982, although I attribute at least a couple of those right answers to lucky guesses.  (Especially the CLR answers.)  Pay attention, read the questions carefully, and filter out the answers that you know aren&#8217;t right.  For example, there&#8217;s no such thing as muffler bearings in SQL Server 2008.  Everybody knows those were eliminated in 2005 when they added the second flux capacitor.</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=SlqrhlSoA7g:722GYjzA7Aw:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=SlqrhlSoA7g:722GYjzA7Aw:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=SlqrhlSoA7g:722GYjzA7Aw:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=SlqrhlSoA7g:722GYjzA7Aw:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=SlqrhlSoA7g:722GYjzA7Aw:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=SlqrhlSoA7g:722GYjzA7Aw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=SlqrhlSoA7g:722GYjzA7Aw:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=SlqrhlSoA7g:722GYjzA7Aw:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=SlqrhlSoA7g:722GYjzA7Aw:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/SlqrhlSoA7g" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/finally-got-my-microsoft-mcitp-certification/feed/</wfw:commentRss>
+            <slash:comments>10</slash:comments>
+        </item>
+        <item>
+            <title>I Need #SQLHelp!</title>
+            <link>http://www.brentozar.com/archive/2009/12/i-need-sqlhelp/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/i-need-sqlhelp/#comments</comments>
+            <pubDate>Fri, 18 Dec 2009 14:16:06 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[SQLServerPedia Syndication]]></category>
+            <category><![CDATA[#sqlhelp]]></category>
+            <category><![CDATA[twitter]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6352</guid>
+            <description>
+                <![CDATA[You&#8217;ve got questions, we&#8217;ve got answers. 
+No, not Radio Shack &#8211; Twitter.  Right now, no matter when you&#8217;re reading this, there are people on Twitter who can answer quick questions for you.  Thanks to an excellent idea by Aaron Nelson (Blog &#8211; @SQLVariant), it&#8217;s even easier now.  In this post, I&#8217;ll show how to ask questions [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><p>You&#8217;ve got questions, we&#8217;ve got answers.</p> 
+<p>No, not Radio Shack &#8211; <a href="http://twitter.com">Twitter</a>.  Right now, no matter when you&#8217;re reading this, there are people on Twitter who can answer quick questions for you.  Thanks to an excellent idea by Aaron Nelson (<a href="http://sqlvariant.com/wordpress/">Blog</a> &#8211; <a href="http://twitter.com/sqlvariant">@SQLVariant</a>), it&#8217;s even easier now.  In this post, I&#8217;ll show how to ask questions and how to answer them.</p> 
+<h3>How to Ask #SQLHelp Questions</h3> 
+<p>Sign up for a <a href="http://twitter.com">Twitter</a> account.  You don&#8217;t have to follow anyone, but if you want to, I&#8217;d suggest following <a href="http://twitter.com/BrentO/sql-server">my SQL Server Twitter list</a> instead of individual people.  I&#8217;ve got a <a href="http://www.brentozar.com/archive/2009/10/how-to-use-twitter-lists/">post on how to use Twitter lists</a>, but in a nutshell, they let you keep in touch with a lot of people who focus on a particular topic.  The cool part is that their tweets don&#8217;t clutter up your main Twitter page, which is important because there&#8217;s several hundred SQL Server folks on Twitter as of this writing.</p> 
+<p>When you need help, write a tweet and include #SQLHelp in the tweet, like this:</p> 
+<div id="attachment_6353" class="wp-caption alignnone" style="width: 561px"><img class="size-full wp-image-6353" title="sqlhelp" src="http://i.brentozar.com/wp-content/uploads/2009/12/sqlhelp.png" alt="Asking a #SQLHelp Question" width="551" height="194" /><p class="wp-caption-text">Asking a #SQLHelp Question</p></div> 
+<p>If your question involves more than 140 characters, you&#8217;ve got a few options:</p> 
+<ul> 
+<li>Post a question to <a href="http://stackoverflow.com">StackOverflow</a> if it&#8217;s a programming question, or to <a href="http://serverfault.com">ServerFault</a> if it&#8217;s an infrastructure question.  Tweet the link to your question.</li> 
+<li>Upload screenshots to <a href="http://twitpic.com/">TwitPic</a>.  It&#8217;s a free service that tweets the images you upload.  When you write the description, make sure to include #SQLHelp so that the smart folks see it.</li> 
+<li>Upload files to <a href="http://www.filedropper.com/">FileDropper.com</a> and tweet the link to the file.  Remember that anything you upload is public &#8211; don&#8217;t upload your databases.  It&#8217;s a great way to show query execution plans though.</li> 
+</ul> 
+<p>After you click Update to post your question, click on the <a href="http://twitter.com/#replies">@YourName link</a> on the right side of your Twitter home page.  For me, it says @BrentO, because that&#8217;s my Twitter name.  This page is your replies page &#8211; it shows anyone who&#8217;s mentioned your name.  Then sit tight &#8211; as people reply to you, you&#8217;ll see the new tweets on this page.</p> 
+<p>When you reply back to users, the default Twitter action is to put their @Name at the beginning of the tweet.  Edit the tweet first and put a period and a space before their name, like this:</p> 
+<div id="attachment_6354" class="wp-caption alignnone" style="width: 561px"><img class="size-full wp-image-6354" title="twitter-reply" src="http://i.brentozar.com/wp-content/uploads/2009/12/twitter-reply.png" alt="Public Replies on Twitter" width="551" height="193" /><p class="wp-caption-text">Public Replies on Twitter</p></div> 
+<p>This is because if you just start the tweet with @Mike_Walsh, then the only people who will see it are the folks who follow both you and Mike.  If you start the tweet with anything other than an @ sign, then anyone who follows you will see your reply &#8211; regardless of whether or not they&#8217;re following Mike.</p> 
+<p>Don&#8217;t include the #SQLHelp tag in the reply, either.  That just helps keep the #SQLHelp search cleaner.</p> 
+<p>When you get your final answer, post it a thank-you back to #SQLHelp, like this:</p> 
+<div id="attachment_6355" class="wp-caption alignnone" style="width: 561px"><img class="size-full wp-image-6355" title="shrinking-databases" src="http://i.brentozar.com/wp-content/uploads/2009/12/shrinking-databases.png" alt="Got My #SQLHelp Answer" width="551" height="190" /><p class="wp-caption-text">Got My #SQLHelp Answer</p></div> 
+<p>That way people know when your question is answered.  If your question hasn&#8217;t been answered within an hour, you can repeat it again, but please don&#8217;t repeat it in less than an hour.</p> 
+<h3>How to Answer #SQLHelp Questions</h3> 
+<p>Set up a search in your Twitter client for #SQLHelp, or use one of these alternate methods:</p> 
+<ul> 
+<li><a href="http://search.twitter.com/search?q=%23sqlhelp">Search.Twitter.com results for #SQLHelp</a></li> 
+<li><a href="http://search.twitter.com/search.atom?q=%23sqlhelp">RSS Feed for #SQLHelp tweets</a></li> 
+<li>Sit next to <a href="http://twitter.com/PaulRandal">Paul Randal</a> and wait for him to <a href="http://twitter.com/PaulRandal/status/6522951038">start typing excitedly</a></li> 
+</ul> 
+<p>As you&#8217;re interacting with the questioner, remember that they&#8217;re probably new to Twitter, and that you&#8217;re probably not the only one working with them.  I open up two web pages &#8211; <a href="http://search.twitter.com">Search.Twitter.com</a> with a search for the questioner&#8217;s username (so I can see who&#8217;s replying to them) and the questioner&#8217;s Twitter page (so I can see everything they respond back).  That way you can keep duplicate interactions to a minimum.</p> 
+<p>Thanks again to Aaron Nelson (<a href="http://sqlvariant.com/wordpress/">Blog</a> &#8211; <a href="http://twitter.com/sqlvariant">@SQLVariant</a>) for suggesting this!  I think it&#8217;s a great way for the community to get even more involved in real time.</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=vzRG73-sADo:JWutGfyEuTM:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=vzRG73-sADo:JWutGfyEuTM:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=vzRG73-sADo:JWutGfyEuTM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=vzRG73-sADo:JWutGfyEuTM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=vzRG73-sADo:JWutGfyEuTM:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=vzRG73-sADo:JWutGfyEuTM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=vzRG73-sADo:JWutGfyEuTM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=vzRG73-sADo:JWutGfyEuTM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=vzRG73-sADo:JWutGfyEuTM:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/vzRG73-sADo" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/i-need-sqlhelp/feed/</wfw:commentRss>
+            <slash:comments>6</slash:comments>
+        </item>
+        <item>
+            <title>Pro SQL Server 2008 Internals and Troubleshooting</title>
+            <link>http://www.brentozar.com/archive/2009/12/pro-sql-server-2008-internals-and-troubleshooting/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/pro-sql-server-2008-internals-and-troubleshooting/#comments</comments>
+            <pubDate>Thu, 17 Dec 2009 15:00:14 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[Writing and Presenting]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6307</guid>
+            <description>
+                <![CDATA[The book&#8217;s almost here!  It started to feel a whole lot more real when Christian Bolton sent me the copy of the dedications &#38; acknowledgments, and I found my first error.  &#60;facepalm&#62;  I dedicated the book to Erika, and I left out one eensy word: 
+ 
+WHAT I MEANT TO SAY: 
+I love you dearly, and I love [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><div id="attachment_6308" class="wp-caption alignright" style="width: 207px"><a href="http://www.amazon.com/gp/product/0470484284?ie=UTF8&amp;tag=brozsqseex-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0470484284"><img class="size-full wp-image-6308" title="sql-server-troubleshooting" src="http://i.brentozar.com/wp-content/uploads/2009/12/sql-server-troubleshooting.jpg" alt="Click to Look Inside" width="197" height="242" /></a><p class="wp-caption-text">Click to Look Inside</p></div> 
+<p>The book&#8217;s almost here!  It started to feel a whole lot more real when Christian Bolton sent me the copy of the dedications &amp; acknowledgments, and I found my first error.  &lt;facepalm&gt;  I dedicated the book to Erika, and I left out one eensy word:</p> 
+<ul> 
+<li>WHAT I MEANT TO SAY:<br /> 
+<em>I love you dearly, and I love working on our next chapters.</em></li> 
+<li>WHAT I ACTUALLY SAID:<br /> 
+<em>I love you dearly, and I love working on next chapters.</em></li> 
+</ul> 
+<p>Daaaamn.  Leave out that one little word, and it goes from sounding sweet to sounding like a workaholic.  No matter what other mistakes turn up in the final printed version, that&#8217;s the one I&#8217;m going to regret most.  I rechecked a bunch of Twitter names several times, but I didn&#8217;t double-check that simple sentence.  Ah, well&#8230;</p> 
+<h3>You Can Start Reading Now</h3> 
+<p><a href="http://www.amazon.com/gp/product/0470484284?ie=UTF8&amp;tag=brozsqseex-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0470484284">Amazon&#8217;s page for Pro SQL Server 2008 Internals and Troubleshooting</a> now lets you poke around inside the book.  You can click on the book&#8217;s cover and read the Table of Contents, first few pages, or click the Surprise Me link to be taken to a random page.</p> 
+<p><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470484284.html">Wiley&#8217;s site for the book</a> even lets you download the introductory first chapter for free!  Go there and click Read Excerpt 1, and you can grab the PDF as an appetizer.</p> 
+<p>I&#8217;m also building out a web site, <a href="http://sqlservertroubleshooting.com/">SQLServerTroubleshooting</a>, to market the book, the authors, and have a place for discussing questions.</p> 
+<h3>The Early Reviews Are In!</h3> 
+<p>A blog reader sent me an email question, and to butter me up, he said that my book &#8220;helps me a lot for my day to day database server issue.&#8221;  I gently reminded him that the book wasn&#8217;t even out yet, but I couldn&#8217;t contain my giggling.  I posted a mention of the incident on Twitter, and next thing you know, I had all kinds of &#8220;reviews&#8221; like these:</p> 
+<ul> 
+<li>&#8220;Even the idea of your book has helped me. I cannot remember life before your book was written.&#8221; &#8211; <a href="http://twitter.com/SQLGal/status/6731502963">SQLGal</a></li> 
+<li>&#8220;I found your book to be an amazing story of a gripping struggle against the tyranny of SQL&#8230;Ive read it like 9 times.&#8221; &#8211; <a href="http://twitter.com/Dave_Levy/statuses/6731831796">Dave_Levy</a></li> 
+<li>&#8220;after seeing the movie adaptation of your book directed by Michael Bay, I have to say the book was better. Always.&#8221; &#8211; <a href="http://twitter.com/jzy/statuses/6731966022">jzy</a></li> 
+<li>&#8220;The book is always better, but the movie had its moments – had no idea SQL Sith was Luke’s father. I&#8217;m keeping the souvenir cup.&#8221; &#8211; <a href="http://twitter.com/wnylibrarian/statuses/6732229881">wnylibrarian</a></li> 
+<li>&#8220;Since reading your book I haven&#8217;t been able to sleep. SQL is truly terrifying.&#8221; &#8211; <a href="http://twitter.com/Jorriss/statuses/6732112062">Jorriss</a></li> 
+<li>&#8220;<span><span>Your book has helped me a lot with my weight control&#8221; &#8211; <a href="http://twitter.com/ra_dewar/status/6732659960">ra_dewar</a><br /> 
+</span></span></li> 
+<li>&#8220;I&#8217;m from the future and your book has changed my life&#8221; &#8211; <a href="http://twitter.com/christianbolton/statuses/6731643598">ChristianBolton</a></li> 
+<li>&#8220;I am pleased to say your book has replace three smaller volumnes, propping up the broken leg of my kitchen table.&#8221; &#8211; <a href="http://twitter.com/fatherjack/statuses/6732329101">FatherJack</a></li> 
+<li>&#8220;<span><span>The book is awesome @<a href="http://twitter.com/BrentO">BrentO</a> ! Especially the beauty tips chapter. :{&gt;&#8221; &#8211; <a href="http://twitter.com/AndyLeonard/status/6732392179">AndyLeonard</a><br /> 
+</span></span></li> 
+<li>&#8220;I, too, was greatly assisted by your work. Especially chapter 13. Awesome read &#8211; great characters; loved the plot.&#8221; &#8211; <a href="http://twitter.com/buckwoody/statuses/6732254218">BuckWoody</a></li> 
+</ul> 
+<p>That does it &#8211; I&#8217;m going to stop reading reviews from this point forward.  It can&#8217;t get any better than these.  And this is exactly why I include the Twitter community in the book&#8217;s acknowledgments.</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QEmr_-wWh-8:hqyGcCwhBhM:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=QEmr_-wWh-8:hqyGcCwhBhM:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QEmr_-wWh-8:hqyGcCwhBhM:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=QEmr_-wWh-8:hqyGcCwhBhM:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QEmr_-wWh-8:hqyGcCwhBhM:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QEmr_-wWh-8:hqyGcCwhBhM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QEmr_-wWh-8:hqyGcCwhBhM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QEmr_-wWh-8:hqyGcCwhBhM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=QEmr_-wWh-8:hqyGcCwhBhM:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/QEmr_-wWh-8" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/pro-sql-server-2008-internals-and-troubleshooting/feed/</wfw:commentRss>
+            <slash:comments>6</slash:comments>
+        </item>
+        <item>
+            <title>SQL Server in the Cloud article at Dr. Dobb’s Journal</title>
+            <link>http://www.brentozar.com/archive/2009/12/sql-server-in-the-cloud-article-at-dr-dobbs-journal/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/sql-server-in-the-cloud-article-at-dr-dobbs-journal/#comments</comments>
+            <pubDate>Wed, 16 Dec 2009 22:45:38 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[Cloud Computing]]></category>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[SQLServerPedia Syndication]]></category>
+            <category><![CDATA[azure]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6321</guid>
+            <description>
+                <![CDATA[Dr. Dobb&#8217;s Journal just published an article of mine about SQL Server in the cloud.  In it, I cover: 
+ 
+The full espresso-strength option for SQL in the cloud 
+The &#8220;instant coffee&#8221; version that might just meet your needs 
+Two real world use cases &#8211; one that needed espresso, and one that ended up with Nescafe 
+ 
+You can read the [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><div id="attachment_6322" class="wp-caption alignright" style="width: 160px"><a href="http://www.flickr.com/photos/roadsidepictures/105549050/"><img class="size-thumbnail wp-image-6322" title="maxwell-house" src="http://i.brentozar.com/wp-content/uploads/2009/12/maxwell-house-150x150.jpg" alt="When You Care Enough to Spend The Very Least" width="150" height="150" /></a><p class="wp-caption-text">When You Care Enough to Spend The Very Least</p></div> 
+<p>Dr. Dobb&#8217;s Journal just published an <a href="http://www.ddj.com/database/222002261">article of mine about SQL Server in the cloud</a>.  In it, I cover:</p> 
+<ul> 
+<li>The full espresso-strength option for SQL in the cloud</li> 
+<li>The &#8220;instant coffee&#8221; version that might just meet your needs</li> 
+<li>Two real world use cases &#8211; one that needed espresso, and one that ended up with Nescafe</li> 
+</ul> 
+<p>You can <a href="http://www.ddj.com/database/222002261">read the article</a>, and then let me know what you think here.  (They don&#8217;t have discussions on articles.)</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=_2I4lwqLtbc:tRlx9Y1Q3FQ:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=_2I4lwqLtbc:tRlx9Y1Q3FQ:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=_2I4lwqLtbc:tRlx9Y1Q3FQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=_2I4lwqLtbc:tRlx9Y1Q3FQ:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=_2I4lwqLtbc:tRlx9Y1Q3FQ:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=_2I4lwqLtbc:tRlx9Y1Q3FQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=_2I4lwqLtbc:tRlx9Y1Q3FQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=_2I4lwqLtbc:tRlx9Y1Q3FQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=_2I4lwqLtbc:tRlx9Y1Q3FQ:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/_2I4lwqLtbc" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/sql-server-in-the-cloud-article-at-dr-dobbs-journal/feed/</wfw:commentRss>
+            <slash:comments>4</slash:comments>
+        </item>
+        <item>
+            <title>Designing a Recovery Strategy for StackOverflow</title>
+            <link>http://www.brentozar.com/archive/2009/12/designing-a-recovery-strategy-for-stackoverflow/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/designing-a-recovery-strategy-for-stackoverflow/#comments</comments>
+            <pubDate>Wed, 16 Dec 2009 13:00:27 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[backup]]></category>
+            <category><![CDATA[stackoverflow]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6281</guid>
+            <description>
+                <![CDATA[When I design a backup &#38; recovery strategy for a database, I don&#8217;t talk to the developers, database administrators, or systems administrators first.  The first people I go to are the business managers, and I ask three questions: 
+ 
+How much money would you lose if you lost the data altogether? 
+How much money would you lose if [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><p>When I design a backup &amp; recovery strategy for a database, I don&#8217;t talk to the developers, database administrators, or systems administrators first.  The first people I go to are the business managers, and I ask three questions:</p> 
+<ul> 
+<li>How much money would you lose if you lost the data altogether?</li> 
+<li>How much money would you lose if you were down for X hours?</li> 
+<li>How much time &amp; money can you afford to devote to backups?</li> 
+</ul> 
+<p>Each of these questions drive the strategy, and <strong>none of these questions are actually answered by the DBA</strong>.  In <a href="http://blog.stackoverflow.com/2009/12/blog-outage-backup-policies/">Jeff Atwood&#8217;s post about StackOverflow&#8217;s backup &amp; recovery strategy</a> this week, there&#8217;s been a lot of comments suggesting alternate backup methods.  Curiously, though, none of them seem to actually ask any of those three questions.  Let&#8217;s examine these questions one by one, and then look at <a href="http://stackoverflow.com/">StackOverflow</a>&#8217;s choices to see if they make sense.</p> 
+<h3>How much is your data worth?</h3> 
+<p>If you had to reconstruct the data from scratch, using other systems and records, how much would it cost you to do it?  And would you actually pursue that objective, or would you consider folding up the business altogether, or maybe living without the data?</p> 
+<p>If your database holds financial transactions for your customers, with live incoming credit card transactions and debit card withdrawals, it&#8217;s obviously very valuable, and you&#8217;d be forced to spend a fortune to get back in business.  If you&#8217;re owned by Microsoft and you <a href="http://www.techcrunch.com/2009/10/10/t-mobile-sidekick-disaster-microsofts-servers-crashed-and-they-dont-have-a-backup/">lose all Sidekick customer contact data</a>, you pour money and manpower into getting it back.  Other companies like <a href="http://www.wired.com/epicenter/2009/01/magnolia-suffer/">Magnolia</a> and <a href="http://www.techcrunch.com/2009/01/03/journalspace-drama-all-data-lost-without-backup-company-deadpooled/">Journalspace</a>, on the other hand, have decided to pack their bags and call it a day.</p> 
+<p>The business has to work with IT to come up with a quick back-of-the-envelope calculation as to what complete data loss would cost, and that&#8217;s part of the formula that dictates what we spend on data protection.  Sometimes this simple question leads businesses to realize, &#8220;That particular data doesn&#8217;t really matter &#8211; we could rebuild it all from other sources for next to nothing.  Maybe we shouldn&#8217;t back it up at all.&#8221;</p> 
+<h3>How much money does downtime cost?</h3> 
+<p>While this database is down, can you still sell your products?  If not, then it&#8217;s easy to calculate the cost of downtime &#8211; it&#8217;s your sales metrics.  If you sell an average of $100,000 per hour, then an hour of downtime costs you $100,000.</p> 
+<p>And furthermore, if you can&#8217;t sell products, do your customers hold off on the purchase, or do they switch to another vendor?  If Amazon.com&#8217;s databases go down, then their customers probably won&#8217;t wait around until the site comes back up.  They&#8217;ll head straight over to another web site and spend money with a competitor.  This has a hidden business danger, too &#8211; if your customers like that new site better, they might stick with it and bypass you for future orders.</p> 
+<p>However, if you can still sell products, keep your customers &amp; employees happy, and business moves along unaffected except for a few bumps, then that might guide your backup &amp; recovery strategy too.  Or if your company isn&#8217;t making all that much per hour, then maybe you don&#8217;t want to dedicate a fortune to having your systems highly available.</p> 
+<h3>How much resources can you devote to backups?</h3> 
+<p>Availability costs time and money.</p> 
+<p>The more available your system needs to be, the more time and money it costs.  If you&#8217;re a global enterprise with a killer cash flow, then you can make more conservative decisions, back up more databases more often, and not be as concerned with the costs.  If you&#8217;re a startup with three guys, and all your revenue goes towards paying salaries, then you want to watch those backup costs a little more closely.</p> 
+<p>In addition, backups cost more than just money.  If you need up-to-the-minute recovery with constant transaction log backups, you have to put your database in full recovery mode &#8211; which can slow things down.  If you want the fastest possible response times, and you&#8217;re looking for every millisecond edge against your competitors on each page load, backups are going to hit your radar.<br /> 
+<a href="http://stackoverflow.com"><img class="alignright size-full wp-image-6286" title="stackoverflow" src="http://i.brentozar.com/wp-content/uploads/2009/12/stackoverflow.png" alt="stackoverflow" width="250" height="61" /></a></p> 
+<h3>So how does StackOverflow stack up?</h3> 
+<p>Let&#8217;s ask the three questions:</p> 
+<ul> 
+<li><strong>How much is their data worth?</strong> Their data consists of questions and answers from the programming community.  Sure, they&#8217;re the <a href="http://www.joelonsoftware.com/items/2009/12/13.html">#1 programming site in the world</a>, but even the words of Jon Skeet are only worth so much.</li> 
+<li><strong>How much money does downtime cost?</strong> This might sound callous to users, but if StackOverflow was down for four hours, the vast majority of users would get over it.  They might post a few questions elsewhere, but for the most part, they&#8217;d just sit around on Twitter complaining, refreshing their browser while they waited for StackOverflow to come back up.  They&#8217;re addicted, and they&#8217;ll tolerate downtime.</li> 
+<li><strong>How much resources can they devote to backups?</strong> StackOverflow is a small startup trying to make a living off ad revenue.  Their primary target users are extremely tech-savvy people who are fully aware of tools like Firefox and <a href="http://adblockplus.org">Adblock Plus</a>, making it even more challenging.  In an ideal world, they&#8217;d have a SAN with snapshot sub-second backup &amp; restore technology &#8211; but that costs a lot of money, and it&#8217;s not realistic.  Frankly, every bit of traffic in and out of their colo servers costs them money, and not an insignificant amount.</li> 
+</ul> 
+<p>With these answers in mind, StackOverflow&#8217;s decisions not to do transaction log backups, offsite log shipping, database mirroring, and so on make good <em><strong>business</strong></em> sense. Us geeks in the crowd may not like it, and we might demand the latest and greatest in backup &amp; recovery technology, but at the same time we want StackOverflow to remain free.  As their volunteer DBA, I&#8217;d love to do 24&#215;7 log shipping or database mirroring to a secondary server at another colo facility &#8211; but I wouldn&#8217;t be willing to pay out of my own pocket for expenses like that.</p> 
+<div id="attachment_6302" class="wp-caption alignright" style="width: 472px"><a href="http://blog.stackoverflow.com/2009/12/stack-overflow-rack-glamour-shots/"><img class="size-full wp-image-6302 " title="stack-overflow-server-rack-front-small" src="http://i.brentozar.com/wp-content/uploads/2009/12/stack-overflow-server-rack-front-small.jpg" alt="StackOverflow Database Server" width="462" height="130" /></a><p class="wp-caption-text">StackOverflow Database Server</p></div> 
+<p>To drive the resources part home, take a look at the database server as shown in <a href="http://blog.stackoverflow.com/2009/12/stack-overflow-rack-glamour-shots/">Jeff&#8217;s Stack Overflow Rack Glamour Shots post</a> this week.  Count the number of hard drives.  That&#8217;s six SATA drives shared by the OS, page file, database files, log files, and full text catalogs to serve <a href="http://blog.stackoverflow.com/2009/09/one-million-pageviews/">over one million pageviews per day</a>.  Many of you out there use a server like this as your development server, and you complain that it&#8217;s slow.  Guess what &#8211; this is both their production server <em>and</em> development server.  They&#8217;re achieving some incredible stuff with a very limited hardware budget, and it&#8217;s a testimonial to what you can do if you really, really focus on performance.</p> 
+<p>And while I&#8217;ve got you thinking about backups, now&#8217;s a great time to check out some of my other backup articles:</p> 
+<ul> 
+<li><a href="http://www.brentozar.com/archive/2007/10/backing-up-sql-server-my-own-mediocre-practices/">My SQL Server backup best practices</a></li> 
+<li><a href="http://www.brentozar.com/archive/2009/11/why-dedupe-is-a-bad-idea-for-sql-server-backups/">Why dedupe is a bad idea for database backups</a></li> 
+<li><a href="http://www.brentozar.com/archive/2009/11/losing-weight-and-testing-code/">Losing weight and testing code</a></li> 
+<li><a href="http://www.brentozar.com/archive/2009/03/adding-reliability-to-your-infrastructure/">Adding reliability to your infrastructure</a></li> 
+<li><a href="http://www.brentozar.com/archive/2009/03/more-on-the-carbonite-backup-failures/">More on the Carbonite backup failures</a></li> 
+</ul> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=fW2jM266dVU:8XRsbGa0An8:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=fW2jM266dVU:8XRsbGa0An8:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=fW2jM266dVU:8XRsbGa0An8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=fW2jM266dVU:8XRsbGa0An8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=fW2jM266dVU:8XRsbGa0An8:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=fW2jM266dVU:8XRsbGa0An8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=fW2jM266dVU:8XRsbGa0An8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=fW2jM266dVU:8XRsbGa0An8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=fW2jM266dVU:8XRsbGa0An8:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/fW2jM266dVU" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/designing-a-recovery-strategy-for-stackoverflow/feed/</wfw:commentRss>
+            <slash:comments>9</slash:comments>
+        </item>
+        <item>
+            <title>Interview with Mike Walsh about blogging</title>
+            <link>http://www.brentozar.com/archive/2009/12/interview-with-mike-walsh-about-blogging/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/interview-with-mike-walsh-about-blogging/#comments</comments>
+            <pubDate>Mon, 14 Dec 2009 16:36:39 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[Writing and Presenting]]></category>
+            <category><![CDATA[blogging]]></category>
+            <category><![CDATA[wordpress]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6248</guid>
+            <description><![CDATA[Mike Walsh (Blog &#8211; Twitter) is celebrating his one year anniversary as a blogger by revisiting why he got started, passing on tips to other bloggers, and upping his game.  He interviewed me about how I got started blogging, how I&#8217;ve changed along the way, and some tips that I&#8217;d recommend new bloggers think about.  [...]]]></description>
+            <content:encoded>
+                <![CDATA[><p>Mike Walsh (<a href="http://www.straightpathsql.com/">Blog</a> &#8211; <a href="http://twitter.com/mike_walsh">Twitter</a>) is celebrating his one year anniversary as a blogger by revisiting why he got started, passing on tips to other bloggers, and upping his game.  He interviewed me about how I got started blogging, how I&#8217;ve changed along the way, and some tips that I&#8217;d recommend new bloggers think about.  It&#8217;s about a half hour long, so pour a hot cup of your favorite caffeinated beverage and turn up your speakers &#8211; the audio&#8217;s a little quiet:</p> 
+<br /><img src="http://podcasts.brentozar.com/MikeWalsh-Interview-Part1.jpg" alt="media" /><br /> 
+ 
+<p>Some of the links we talk about include:</p> 
+<ul> 
+<li><a href="http://www.brentozar.com/archive/2008/12/how-to-start-a-technical-blog/">My series on starting a blog</a></li> 
+<li><a href="http://sqlserverpedia.com/wiki/Syndicate_Your_SQL_Server_Blog">How to get syndicated at SQLServerPedia</a></li> 
+<li><a href="http://www.brentozar.com/archive/2009/03/are-you-being-treated-fairly/">Are you being treated fairly?</a> We didn&#8217;t discuss this directly, but it ties in with why I recommend blogging for DBAs.  You need to plan for your long-term success.</li> 
+</ul> 
+<p>Mike&#8217;s going to focus on blogging all this week over at <a href="http://www.straightpathsql.com">StraightPathSQL.com</a>, so head over there and check it out or <a href="http://feeds.feedburner.com/StraightpathSolutionsSqlBlog">subscribe to his RSS feed</a>.  He&#8217;s got some good tips coming!</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=LzWL_MSj8Gs:sZNmcQ8HMpo:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=LzWL_MSj8Gs:sZNmcQ8HMpo:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=LzWL_MSj8Gs:sZNmcQ8HMpo:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=LzWL_MSj8Gs:sZNmcQ8HMpo:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=LzWL_MSj8Gs:sZNmcQ8HMpo:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=LzWL_MSj8Gs:sZNmcQ8HMpo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=LzWL_MSj8Gs:sZNmcQ8HMpo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=LzWL_MSj8Gs:sZNmcQ8HMpo:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=LzWL_MSj8Gs:sZNmcQ8HMpo:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/LzWL_MSj8Gs" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/interview-with-mike-walsh-about-blogging/feed/</wfw:commentRss>
+            <slash:comments>18</slash:comments>
+        </item>
+        <item>
+            <title>New Bloggers Adam Haines and David Dye</title>
+            <link>http://www.brentozar.com/archive/2009/12/new-bloggers-adam-haines-and-david-dye/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/new-bloggers-adam-haines-and-david-dye/#comments</comments>
+            <pubDate>Thu, 10 Dec 2009 16:00:09 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[SQLServerPedia Syndication]]></category>
+            <category><![CDATA[blogging]]></category>
+            <category><![CDATA[syndication]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6263</guid>
+            <description>
+                <![CDATA[We&#8217;ve got two new syndicated bloggers at SQLServerPedia this week! 
+Adam Haines 
+Adam (Blog) is an MCP Database Administrator/Developer and a proud recipient of the MVP award. He&#8217;s been in databases since 2004, first in the banking industry as a database analyst. He transitioned into his current DBA &#38; developer role in 2007, and still does both [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><p>We&#8217;ve got two new syndicated bloggers at <a href="http://sqlserverpedia.com">SQLServerPedia</a> this week!</p> 
+<h3>Adam Haines</h3> 
+<p>Adam (<a href="http://jahaines.blogspot.com/">Blog</a>) is an MCP Database Administrator/Developer and a proud recipient of the MVP award. He&#8217;s been in databases since 2004, first in the banking industry as a database analyst. He transitioned into his current DBA &amp; developer role in 2007, and still does both development and administration.  Adam is also a moderator and frequent poster on the <a href="http://social.msdn.microsoft.com/Forums/en/category/sqlserver/">MSDN SQL Server forums</a>. Adam is also part of the team at <a href="http://beyondrelational.com/blogs/tc/default.aspx">TSQLChallenges</a>.  Some of his recent posts include:</p> 
+<ul> 
+<li><a href="http://jahaines.blogspot.com/2009/11/splitting-delimited-string-part-1.html">How to Split a Delimited String</a> &#8211; using a numbers table or XML, with plenty of example scripts.</li> 
+<li><a href="http://jahaines.blogspot.com/2009/11/ssrs-should-i-use-embedded-tsql-or.html">Should You Use Embedded TSQL or a Stored Proc?</a> &#8211; he gives the pros and cons of each approach for reports in SSRS.</li> 
+<li><a href="http://jahaines.blogspot.com/2009/10/locking-table-while-it-is-being-loaded.html">Locking and Loading (a table)</a> &#8211; Adam and Aaron Bertrand (<a href="http://sqlblog.com/blogs/aaron_bertrand/">Blog</a> &#8211; <a href="http://twitter.com/aaronbertrand">Twitter</a>) worked on a solution to load data faster by creating a schema temporarily.</li> 
+</ul> 
+<h3>David Dye</h3> 
+<p>Despite its name, <a href="http://sqlsafety.blogspot.com">David&#8217;s new blog</a> does not have anything to do with the Safety Dance.  Try to contain your disappointment.  On the plus side, he&#8217;s a Sergeant with the Cape Coral Police Department (now THAT is a job title) and currently works as a database administrator and developer in the Administrative Services Division.  He began his career with the police department in 1990 in the patrol division and worked various assignments until being promoted to Sergeant in 1998.  Based on his education and experience David was assigned to his current position in 2002 and is responsible for database administration, software integration, and development for public safety.</p> 
+<p>David’s primary focus and expertise is with SQL Server, reporting services, integration services, and analysis services, and he was recognized for his work by SQL Server Magazine as “Innovator of the Year” runner up in 2007.  David is an MCITP for SQL Server 2005 and 2008 in both database administration and business intelligence and is a Microsoft Certified Trainer.  He regularly posts on the <a href="http://social.msdn.microsoft.com/Forums/en/category/sqlserver/">MSDN SQL Server forums</a> where he also serves as a moderator, and is a contributor at SQLCLR.net.  In addition to his knowledge of SQL Server David works as a software developer using VB.net and C# and has worked extensively in SharePoint development.</p> 
+<p>His first couple of posts include:</p> 
+<ul> 
+<li><a href="http://sqlsafety.blogspot.com/2009/11/there-have-been-instances-where-i-have.html">Problems connecting to SSIS named instances</a> &#8211; David walks through how he solved it.</li> 
+<li><a href="http://sqlsafety.blogspot.com/2009/10/format-names-in-proper-case.html">Formatting names with proper case</a> &#8211; need to automagically capitalize the first letter of words?</li> 
+</ul> 
+<p>Welcome to these two new bloggers!  We&#8217;re mounting up an army of bloggers over at SQLServerPedia, and that presents some interesting challenges and opportunities.  We&#8217;ve got some new things coming next year to showcase the people behind all this knowledge.  Stay tuned&#8230;</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=o-3tcI_mWms:2xWK4ZWlEXc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=o-3tcI_mWms:2xWK4ZWlEXc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=o-3tcI_mWms:2xWK4ZWlEXc:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=o-3tcI_mWms:2xWK4ZWlEXc:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=o-3tcI_mWms:2xWK4ZWlEXc:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=o-3tcI_mWms:2xWK4ZWlEXc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=o-3tcI_mWms:2xWK4ZWlEXc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=o-3tcI_mWms:2xWK4ZWlEXc:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=o-3tcI_mWms:2xWK4ZWlEXc:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/o-3tcI_mWms" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/new-bloggers-adam-haines-and-david-dye/feed/</wfw:commentRss>
+            <slash:comments>6</slash:comments>
+        </item>
+        <item>
+            <title>What is Your Biggest Weakness?</title>
+            <link>http://www.brentozar.com/archive/2009/12/what-is-your-biggest-weakness/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/what-is-your-biggest-weakness/#comments</comments>
+            <pubDate>Wed, 09 Dec 2009 13:30:49 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[Interviewing]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6242</guid>
+            <description>
+                <![CDATA[David Stein (Blog &#8211; Twitter) started a new game of blog tag by asking the classic interview question, &#8220;What is your biggest weakness?&#8221; I got a chuckle out of David&#8217;s answer &#8211; he loves to jump straight into code as soon as he hears the problem.  I&#8217;m right there with him on that one. 
+Me?  Only [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><p>David Stein (<a href="http://www.made2mentor.com">Blog</a> &#8211; <a href="http://twitter.com/made2mentor">Twitter</a>) started a new game of blog tag by asking the classic interview question, <a href="http://www.made2mentor.com/2009/12/%E2%80%9Cwhat-is-your-biggest-weakness%E2%80%9D-the-classic-interview-question/">&#8220;What is your biggest weakness?&#8221;</a> I got a chuckle out of David&#8217;s answer &#8211; he loves to jump straight into code as soon as he hears the problem.  I&#8217;m right there with him on that one.</p> 
+<p>Me?  Only one &#8211; if I had any humility, I&#8217;d be perfect.</p> 
+<p>Okay, no, seriously, my biggest weakness is a mental hangup.  I only want to do things I can do better than anybody else very quickly.</p> 
+<p>I&#8217;m not giving you a sales pitch here.  I&#8217;m not trying to say, &#8220;I like to make sure I&#8217;m successful when I take on a project.&#8221;  That&#8217;s not it at all.  And I&#8217;m not saying I&#8217;m lazy, so you should hire me because I like to find the solution with the least amount of work involved.  I&#8217;m saying if I don&#8217;t think I can win often, I don&#8217;t want to bother playing.</p> 
+<p>In high school, I tried out for the tennis team.  I went to the first practice, left early, and never went back.  While I liked playing around with tennis, I didn&#8217;t like the thought of mindlessly training over and over and over in order to be the best.  I wouldn&#8217;t play if I was going to be a half-ass player, and I didn&#8217;t have the patience to train to be the one of the best players.  Piano, basketball, soccer, volleyball field hockey, you name it, I tried it and I wasn&#8217;t really interested.</p> 
+<div id="attachment_6243" class="wp-caption alignright" style="width: 310px"><a href="http://www.flickr.com/photos/jeremymates/3090959981/"><img class="size-medium wp-image-6243" title="chess" src="http://i.brentozar.com/wp-content/uploads/2009/12/chess-300x240.jpg" alt="The Only Player to Defeat Me" width="300" height="240" /></a><p class="wp-caption-text">The Only Player to Defeat Me</p></div> 
+<p>Chess, on the other hand &#8211; I loved chess.  As long as I could think extremely fast, I could outplay the vast majority of my opponents.  Since I could beat most of the people around me, that made me more interested in playing stronger and stronger opponents, which ended up sharpening my skills.</p> 
+<p>I still take this same approach when I look at new technologies.  I&#8217;m not interested in learning SSAS, SSIS, or SSRS because without a whole lot of training and dedication, I&#8217;d just be one of the thousands of people who get the job done.  Nothing more, nothing less.  The skills I&#8217;ve accumulated over the years don&#8217;t really translate into making me an SSIS rocket surgeon like <a href="http://sqlblog.com/blogs/andy_leonard/">Andy Leonard</a>.  On the other hand, when I had the chance to jump into SAN administration, I was all over it because it would make me a better DBA.  I didn&#8217;t know any other DBAs who&#8217;d also done SAN administration, so it would move me up a notch.</p> 
+<p>I&#8217;ve been lucky to find a career that works well for my strengths and weaknesses, but I don&#8217;t think the &#8220;production DBA&#8221; job will be around forever.  In the back of my mind, I&#8217;m already looking for my next career.  To give an extreme example, &#8220;social media expert&#8221; is the kind of job I could probably nail down easily with zero effort, but I can&#8217;t say that with a straight face, so it&#8217;s out of the question.</p> 
+<p>Time to tag a few other people: hey <a href="http://sqlblog.com/blogs/andy_leonard/">Andy Leonard</a>, <a href="http://facility9.com">Jeremiah Peschka</a>, <a href="http://thesqlagentman.com">Tim Ford</a>, and <a href="http://thomaslarock.com">Tom LaRock</a>, what&#8217;s your biggest weakness?</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=ZR4VHpc82pY:C9PviowC2as:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=ZR4VHpc82pY:C9PviowC2as:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=ZR4VHpc82pY:C9PviowC2as:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=ZR4VHpc82pY:C9PviowC2as:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=ZR4VHpc82pY:C9PviowC2as:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=ZR4VHpc82pY:C9PviowC2as:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=ZR4VHpc82pY:C9PviowC2as:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=ZR4VHpc82pY:C9PviowC2as:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=ZR4VHpc82pY:C9PviowC2as:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/ZR4VHpc82pY" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/what-is-your-biggest-weakness/feed/</wfw:commentRss>
+            <slash:comments>14</slash:comments>
+        </item>
+        <item>
+            <title>How Quest is Bringing DBAs Online</title>
+            <link>http://www.brentozar.com/archive/2009/12/how-quest-is-bringing-dbas-online/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/how-quest-is-bringing-dbas-online/#comments</comments>
+            <pubDate>Tue, 08 Dec 2009 15:00:02 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[QuestKB Syndication]]></category>
+            <category><![CDATA[SQL Server]]></category>
+            <category><![CDATA[questkb]]></category>
+            <category><![CDATA[sqlserverpedia]]></category>
+            <category><![CDATA[syndication]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6220</guid>
+            <description>
+                <![CDATA[Most DBAs don&#8217;t read blogs. 
+They have &#8220;real jobs&#8221; that don&#8217;t afford them the time to surf the web, improve their training, or meet like-minded SQL Server professionals who want to help.  When I talk to them about the power of the community and all this free help that&#8217;s available, they&#8217;re often completely surprised. 
+I think [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><p>Most DBAs don&#8217;t read blogs.</p> 
+<p>They have &#8220;real jobs&#8221; that don&#8217;t afford them the time to surf the web, improve their training, or meet like-minded SQL Server professionals who want to help.  When I talk to them about the power of the community and all this free help that&#8217;s available, they&#8217;re often completely surprised.</p> 
+<p>I think it has to do with the lonely nature of the DBA career.  We usually stumble into this job by accident.  We start as developers or network administrators, and for some odd reason we end up managing a SQL Server because nobody else is doing it.  We tinker around with it, learn a lot of lessons the hard way, and struggle finding good training.</p> 
+<h3>How Quest and SQLServerPedia Are Making a Difference</h3> 
+<p>At the beginning of this year, <a href="http://www.brentozar.com/archive/2009/01/syndicating-your-blog-at-sqlserverpedia/">we announced that SQLServerPedia would offer blog syndication</a>.  We knew that a lot of bloggers were writing top-notch material, but they weren&#8217;t getting the exposure they deserved.  We wanted to help bloggers get their work to a wider audience.</p> 
+<p>Now, we&#8217;re kicking it up a notch.  Here&#8217;s the CPU diagnostics screen inside <a href="http://www.quest.com/spotlight-on-sql-server-enterprise/">Quest Spotlight on SQL Server v6</a>, and check out the links at the bottom right:</p> 
+<div id="attachment_6222" class="wp-caption alignnone" style="width: 510px"><a href="http://www.quest.com/spotlight-on-sql-server-enterprise/"><img class="size-full wp-image-6222" title="Quest-Spotlight-on-SQL-Server-Enterprise-2" src="http://i.brentozar.com/wp-content/uploads/2009/12/Quest-Spotlight-on-SQL-Server-Enterprise-2.jpg" alt="Quest Spotlight on SQL Server Enterprise" width="500" height="384" /></a><p class="wp-caption-text">Quest Spotlight on SQL Server Enterprise</p></div> 
+<p>When you&#8217;re trying to troubleshoot a complex issue like CPU bottlenecks due to insufficient plan cache reuse, or too many adhoc queries running, you need help.  So when you click on those links&#8230;.</p> 
+<div id="attachment_6224" class="wp-caption alignnone" style="width: 510px"><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Query+Tuning"><img class="size-full wp-image-6224" title="SQLServerPedia-1" src="http://i.brentozar.com/wp-content/uploads/2009/12/SQLServerPedia-1.jpg" alt="SQLServerPedia Search Results" width="500" height="506" /></a><p class="wp-caption-text">SQLServerPedia Search Results</p></div> 
+<p>You&#8217;re introduced to community members, bloggers, wiki authors, and other folks who want to share their knowledge with you.</p> 
+<p>This is a completely new way that syndication pays off for bloggers.  When you cover topics users don&#8217;t understand, you can show up on end user screens everywhere.  We&#8217;re only including our syndicated blogs in this search.</p> 
+<h3>How Bloggers Can Benefit</h3> 
+<p>In <a href="http://www.brentozar.com/archive/2009/02/tips-for-syndicated-bloggers/">my </a><a href="http://www.brentozar.com/archive/2009/02/tips-for-syndicated-bloggers/">Syndication FAQ for Bloggers</a>, I talked about some ways you can leverage syndication to bring more readers to your site.  These tips include:</p> 
+<ul> 
+<li><strong>Include links to your other posts.</strong> When someone&#8217;s reading one of your posts, that&#8217;s your chance to bring them deeper into your site.  For example, in this very blog post just a couple of lines above, I linked to my own syndication FAQ, and I&#8217;m going to do it again in a second.</li> 
+<li><strong>Include sample code.</strong> If you&#8217;re discussing table partitioning, for example, include the scripts to demonstrate what you&#8217;re talking about.  The more scripts you include, the more likely someone will stumble across your blog entry when they&#8217;ve got questions about a particular command.</li> 
+<li><strong>Toot your own horn.</strong> If you&#8217;re a consultant and you happen to specialize in the area you&#8217;re blogging about, include a footer on every post with links to contact you for more information.  FeedBurner makes this particularly easy.</li> 
+<li><strong>Include affiliate links to books.</strong> If you&#8217;re a big fan of a particular book to dive deeper into the blog post&#8217;s subject matter, include an Amazon Affiliate link to buy the book.  You get paid 4% of the Amazon purchase, and if you&#8217;re an author, this is above and beyond your normal cut of the proceeds.</li> 
+<li><strong>Read your web statistics reports.</strong> Every now and then, dig into your reports to find out if one of your posts has become popular.  If it has, update it to include more links to your other posts, as I discussed in my <a href="http://www.brentozar.com/archive/2009/12/finding-buried-treasure-with-google-analytics/">Buried Treasure Blog Posts article</a>.</li> 
+</ul> 
+<p>To read more tips like this, check out <a href="http://www.brentozar.com/archive/2009/02/tips-for-syndicated-bloggers/">my </a><a href="http://www.brentozar.com/archive/2009/02/tips-for-syndicated-bloggers/">Syndication FAQ for Bloggers</a>.  See how I did that?  <img src='http://www.brentozar.com/wp-includes/images/smilies/icon_wink.gif' alt=';-)' class='wp-smiley' /> </p> 
+<h3>Suggested Topics for Maximum Exposure</h3> 
+<p>If you&#8217;d like some ideas on topics to write about, here&#8217;s a sampling of the keywords used as SQLServerPedia search links:</p> 
+<ul> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Adhoc+Queries" target="_blank">Adhoc Queries</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Blocking" target="_blank">Blocking</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Buffer+Cache" target="_blank">Buffer Cache</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=CPU+Bottleneck" target="_blank">CPU Bottleneck</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Memory" target="_blank">Memory</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Performance+Counters" target="_blank">Performance Counters</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Plan+Cache+Reuse" target="_blank">Plan Cache Reuse</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Procedure+Cache" target="_blank">Procedure Cache</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Query+Optimization" target="_blank">Query Optimization</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Query+Plan+Hash" target="_blank">Query Plan Hash</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Query+Plan+Parallel" target="_blank">Query Plan Parallel</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Query+Plan+Sort" target="_blank">Query Plan Sort</a></li> 
+<li><a href="http://sqlserverpedia.com/search/sosse/v1/?search=Query+Tuning" target="_blank">Query Tuning</a></li> 
+</ul> 
+<p>If you wanted to get more exposure to more readers, you might look for keywords with less competition.  You could hit those links, see what kinds of results they bring back, and figure out how you could write something better.</p> 
+<p>When writing, keep in mind that SQLServerPedia can&#8217;t syndicate posts about third party products &#8211; and that includes Quest&#8217;s own products.  SQLServerPedia has a very firm editorial policy because we focus strictly on things you can do with the native SQL Server tools. Sharp-eyed readers will notice that this particular post isn&#8217;t syndicated to SSP, for example, but it IS syndicated somewhere else &#8211; and I&#8217;ll talk more about that soon!</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QNXdw9-Wyqw:WVz-HxXDhQk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=QNXdw9-Wyqw:WVz-HxXDhQk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QNXdw9-Wyqw:WVz-HxXDhQk:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=QNXdw9-Wyqw:WVz-HxXDhQk:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QNXdw9-Wyqw:WVz-HxXDhQk:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QNXdw9-Wyqw:WVz-HxXDhQk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QNXdw9-Wyqw:WVz-HxXDhQk:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=QNXdw9-Wyqw:WVz-HxXDhQk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=QNXdw9-Wyqw:WVz-HxXDhQk:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/QNXdw9-Wyqw" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/how-quest-is-bringing-dbas-online/feed/</wfw:commentRss>
+            <slash:comments>1</slash:comments>
+        </item>
+        <item>
+            <title>Finding Buried Treasure with Google Analytics</title>
+            <link>http://www.brentozar.com/archive/2009/12/finding-buried-treasure-with-google-analytics/</link>
+            <comments>http://www.brentozar.com/archive/2009/12/finding-buried-treasure-with-google-analytics/#comments</comments>
+            <pubDate>Mon, 07 Dec 2009 15:00:46 +0000</pubDate>
+            <dc:creator>Brent Ozar</dc:creator>
+            <category><![CDATA[Computers]]></category>
+            <category><![CDATA[Writing and Presenting]]></category>
+            <category><![CDATA[analytics]]></category>
+            <category><![CDATA[seo]]></category>
+            <category><![CDATA[wordpress]]></category>
+
+            <guid isPermaLink="false">http://www.brentozar.com/?p=6226</guid>
+            <description>
+                <![CDATA[About once a month, I use Google Analytics reports to find out if any posts are getting a lot of hits from search engines.  In Analytics, I click Content, Top Landing Pages, which pulls up this report: 
+What the heck?  #5 is a joke post about SQL Server 2010&#8217;s features being leaked.  That surprises me, [...]]]>
+            </description>
+            <content:encoded>
+                <![CDATA[><p>About once a month, I use <a href="http://analytics.google.com">Google Analytics</a> reports to find out if any posts are getting a lot of hits from search engines.  In Analytics, I click Content, Top Landing Pages, which pulls up this report:</p> 
+<div id="attachment_6227" class="wp-caption alignnone" style="width: 510px"><img class="size-full wp-image-6227" title="top-landing-pages" src="http://i.brentozar.com/wp-content/uploads/2009/12/top-landing-pages.png" alt="Top Landing Pages Report" width="500" height="415" /><p class="wp-caption-text">Top Landing Pages Report</p></div> 
+<p>What the heck?  #5 is a joke post about <a href="http://www.brentozar.com/archive/2009/02/sql-server-2010-features-leaked/">SQL Server 2010&#8217;s features being leaked</a>.  That surprises me, so next, I want to find out <strong>why</strong> users are searching for this information.  I click on that page name, then click Entrance Keywords:</p> 
+<div id="attachment_6229" class="wp-caption alignnone" style="width: 510px"><img class="size-full wp-image-6229" title="entrance-keywords" src="http://i.brentozar.com/wp-content/uploads/2009/12/entrance-keywords.png" alt="Entrance Keywords Report" width="500" height="396" /><p class="wp-caption-text">Entrance Keywords Report</p></div> 
+<p>Innnteresting.  I never would have expected that this post would remain popular long after I wrote it, since it was pretty much a throwaway joke.  I bet you&#8217;ve got pages like this too &#8211; you casually wrote a blog post to address one specific issue, didn&#8217;t really think anything of it at the time, and now there&#8217;s hits coming that you didn&#8217;t expect.</p> 
+<p>Now that I know the post has gained popularity, I can make it even more successful.</p> 
+<h3>Helping Search Engines Find Your Buried Treasure</h3> 
+<p>We&#8217;re going to make a series of changes in order to improve our search engine rankings.  Ideally, we&#8217;d be doing this legwork for every post we write, but we don&#8217;t usually have that much time, do we?  After all, we&#8217;ve got day jobs.</p> 
+<p>First, edit the post&#8217;s keywords to include more of the keywords that users were searching for.  This will make it rise higher in search engine rankings.  If you&#8217;re using the excellent <a href="http://wordpress.org/extend/plugins/all-in-one-seo-pack/">All-in-One SEO Plugin for WordPress</a>, edit the post and scroll all the way to the bottom of the page.  Fill in each of the All-in-One fields, which are empty by default:</p> 
+<div id="attachment_6230" class="wp-caption alignnone" style="width: 510px"><img class="size-full wp-image-6230" title="all-in-one-seo-pack-wordpress" src="http://i.brentozar.com/wp-content/uploads/2009/12/all-in-one-seo-pack-wordpress.png" alt="All in One SEO Plugin for WordPress" width="500" height="152" /><p class="wp-caption-text">All in One SEO Plugin for WordPress</p></div> 
+<p>The fields are:</p> 
+<ul> 
+<li><strong>Title</strong> &#8211; defaults to empty, which just uses the original blog post title.  If you wrote a funny post title that doesn&#8217;t really match up to the content, you can override it here.  This override only affects how the search engines see your content, so you can be less funny and more accurate here.</li> 
+<li><strong>Keywords</strong> &#8211; use the search keywords end users used to find your page.</li> 
+<li><strong>Description</strong> &#8211; a one or two sentence description of the page that will show up as a search engine summary.  WordPress uses the first sentence of your blog by default, but you might want to write something more descriptive.  It&#8217;ll show up in the Google results like this:</li> 
+</ul> 
+<div id="attachment_6232" class="wp-caption alignnone" style="width: 510px"><a href="http://www.google.com/search?q=sql+server+2010&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a"><img class="size-full wp-image-6232" title="google-search-results" src="http://i.brentozar.com/wp-content/uploads/2009/12/google-search-results.png" alt="Google Search Results with Tweaked Meta Tags" width="500" height="175" /></a><p class="wp-caption-text">Google Search Results with Tweaked Meta Tags</p></div> 
+<p>Presto! A nice, clean summary sentence instead of the article&#8217;s first sentence.</p> 
+<p>To be even more effective, we can tweak our post content too.  I break up every few paragraphs of my posts with a header line.  This uses the H3 tag in WordPress.  Search engines give more relevance to your headers, so if you want to optimize your post for search engines, try to work keywords into your header lines.</p> 
+<p>Don&#8217;t go overboard.  Readers can tell when you&#8217;re being slimy.  It can be a tough line to walk, but at the end of the day you have to decide whether you want to be liked by search engines or by human beings.  This post is a great example &#8211; my header lines here all talk about buried treasure, which frankly isn&#8217;t going to get me any search engine traffic at all.  I&#8217;m fine with that, because this post isn&#8217;t the cornerstone of my blog.  This is just for you, dear reader, and I&#8217;ll drive traffic to it another way.</p> 
+<h3>Helping People Find Your Buried Treasure</h3> 
+<p>Do a search in your own blog looking for related posts.  You&#8217;ve probably written at least a couple of entries that somehow relate back to your newly popular page.  Edit those pages, and add links directing people to your treasure.</p> 
+<p>If it&#8217;s a post you&#8217;re really proud of, link to it from every single page in your site.  On <a href="http://www.brentozar.com">BrentOzar.com</a>, I have a Popular Articles section on the side of my site.  It links to several of my most searched-for posts, plus a few posts that I just happen to think are spiffy.</p> 
+<h3>Making the Buried Treasure More Valuable</h3> 
+<p>If people are going wild and crazy over one of your buried treasures, put some elbow grease into it and polish it up.  Add pictures, add sample code, and add most importantly, add links.  If someone took the time to click on your link in a search result, they&#8217;ve probably got a lot of questions.  Add a section at the end of the post called Related Reading, and include your own links plus the best you&#8217;ve found on the web.  If you don&#8217;t know any offhand, take a few minutes to search.  If you knew enough about the subject to write about it, then you probably know enough to pick out some good links in search that the reader would like.  After all, they came to you for help &#8211; they may not know the good stuff from the bad right now.</p> 
+<p>Consider expanding your post to include more information covering the keywords that people were searching for.  Let&#8217;s say you wrote about truncating SQL Server log files, for example, and people have started searching for how to truncate the log in SQL Server 2008 &#8211; which is no longer supported.  You could add a paragraph or section to the post explaining that BACKUP LOG WITH TRUNCATE_ONLY no longer works, and include a copy of the error message users get when they try that stunt.</p> 
+<p>This is how <a href="http://www.brentozar.com/archive/2008/08/twitter-101/">my epic Twitter RT FAQ</a> post got started.  Originally, it was just a short post explaining what RT meant on Twitter because people kept asking me.  Over time, I added more and more questions and answers because they were showing up in the search logs, and next thing you know, I&#8217;ve got a monster post going.  The drawback is that my regular readers don&#8217;t see these added entries on such an old blog post, but frankly, I don&#8217;t write that material for my regular readers.  I just keep adding to that post in order to help people who keep searching for Twitter information.</p> 
+<p>Rather than adding more and more to old posts, you can also write new posts to cover new information, and build links between your existing pages and your new ones.  This comes back to the Related Reading topic we discussed earlier.</p> 
+<p>Sometimes, I find that I end up writing my Related Reading posts first!  I start working on a post, and I realize I need some supporting material.  That&#8217;s exactly what this post is doing here &#8211; it&#8217;s going to be link in tomorrow&#8217;s post.  Stay tuned!</p> 
+<div class="feedflare"> 
+<a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=RX7hgM51Krg:OwF6V9bEVJ8:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=RX7hgM51Krg:OwF6V9bEVJ8:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=RX7hgM51Krg:OwF6V9bEVJ8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=RX7hgM51Krg:OwF6V9bEVJ8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=RX7hgM51Krg:OwF6V9bEVJ8:G79ilh31hkQ"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=G79ilh31hkQ" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=RX7hgM51Krg:OwF6V9bEVJ8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=RX7hgM51Krg:OwF6V9bEVJ8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?a=RX7hgM51Krg:OwF6V9bEVJ8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/BrentOzar-SqlServerDba?i=RX7hgM51Krg:OwF6V9bEVJ8:V_sGLiPBpWU" border="0"></img></a> 
+</div><img src="http://feeds.feedburner.com/~r/BrentOzar-SqlServerDba/~4/RX7hgM51Krg" height="1" width="1"/>]]>
+            </content:encoded>
+            <wfw:commentRss>http://www.brentozar.com/archive/2009/12/finding-buried-treasure-with-google-analytics/feed/</wfw:commentRss>
+            <slash:comments>16</slash:comments>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RSSReader">
+  <DataContextMoniker Name="/RSSReaderDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a06351bb-ff30-4865-873a-f36ba6c58276" absoluteBounds="3.125, 2, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/RSSReaderDataContext/Feed" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d85ef941-00e0-4a6f-a225-af2837365946" absoluteBounds="3.14, 2.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,496 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:georss='http://www.georss.org/georss'>
+    <id>tag:blogger.com,1999:blog-13674163</id>
+    <updated>2009-12-19T19:53:37.828-08:00</updated>
+    <title type='text'>Stevey's Blog Rants</title>
+    <subtitle type='html'>Random whining and stuff.</subtitle>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/posts/default'/>
+    <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default'/>
+    <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/'/>
+    <link rel='hub' href='http://pubsubhubbub.appspot.com/'/>
+    <link rel='next' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default?start-index=26&amp;max-results=25'/>
+    <author>
+        <name>Steve Yegge</name>
+        <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+        <email>noreply@blogger.com</email>
+    </author>
+    <generator version='7.00' uri='http://www.blogger.com'>Blogger</generator>
+    <openSearch:totalResults>56</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-8101535196681386569</id>
+        <published>2009-05-18T02:47:00.001-07:00</published>
+        <updated>2009-05-21T16:45:24.984-07:00</updated>
+        <title type='text'>A programmer's view of the Universe, part 3:  The Death of Richard Dawkins</title>
+        <summary type='text'>We're getting close to the end of my blog.  After today's entry, I only have three left to write.  After that, I'll only blog anonymously or (more likely) not at all.This is part three of five in my "Programmer's View of the Universe" series.  I struggled for a while with how best to introduce the ideas in this installment, and ultimately opted for a short story.This is a science fiction short </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/8101535196681386569/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=8101535196681386569' title='135 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8101535196681386569'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8101535196681386569'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2009/05/programmers-view-of-universe-part-3.html' title='A programmer&apos;s view of the Universe, part 3:  The Death of Richard Dawkins'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>135</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-5446768042043105070</id>
+        <published>2009-04-09T02:07:00.000-07:00</published>
+        <updated>2009-04-09T09:32:32.443-07:00</updated>
+        <title type='text'>Have you ever legalized marijuana?</title>
+        <summary type='text'>Over the holidays I read a neat book called Predictably Irrational: The Hidden Forces That Shape Our Decisions, by Dan Ariely.  The book is a fascinating glimpse into several bizarre and unfortunate bugs in our mental software.  These bugs cause us to behave in weird but highly predictable ways in a bunch of everyday situations.For instance, one chapter explains why bringing an uglier version of </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/5446768042043105070/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=5446768042043105070' title='122 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/5446768042043105070'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/5446768042043105070'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2009/04/have-you-ever-legalized-marijuana.html' title='Have you ever legalized marijuana?'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>122</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-2746032254719241259</id>
+        <published>2009-03-12T23:06:00.000-07:00</published>
+        <updated>2009-03-13T03:51:35.115-07:00</updated>
+        <title type='text'>Story Time</title>
+        <summary type='text'>So I've got all these fancy blog posts planned.  More than planned, actually — they're well underway.  But it's also been a busy couple of months, so nothing's really ready yet.To make my schedule even worse, I kind of sort of got myself a little bit addicted to the writings of this one blogger.  Normally I can't frigging stand blogs, including my own.  Everyone always asks me what blogs I read, </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/2746032254719241259/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=2746032254719241259' title='48 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2746032254719241259'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2746032254719241259'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2009/03/story-time.html' title='Story Time'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>48</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-3228667211365540957</id>
+        <published>2008-12-27T03:32:00.000-08:00</published>
+        <updated>2009-01-01T15:52:46.760-08:00</updated>
+        <title type='text'>A programmer's view of the Universe, part 2:  Mario Kart</title>
+        <summary type='text'>This is the second installment of a little series of discussions.  They're not much more than that, just discussions.  And I hope I'm inviting discussion rather than quenching it.  But I'll be honest — the goal of this series is to pound a stake through the heart of a certain way of thinking about the world that has become quite popular.  If my series fails in that regard, I hope it may still </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/3228667211365540957/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=3228667211365540957' title='84 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/3228667211365540957'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/3228667211365540957'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/12/programmers-view-of-universe-part-2.html' title='A programmer&apos;s view of the Universe, part 2:  Mario Kart'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>84</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-6843486152459185712</id>
+        <published>2008-12-25T06:39:00.000-08:00</published>
+        <updated>2009-02-06T17:00:49.891-08:00</updated>
+        <title type='text'>Fable II:  Arguably Better than Getting Your Head Crapped On</title>
+        <summary type='text'>I finished Fallout 3 maybe six or eight weeks ago, and it was hands-down one of the best games I've ever played.  A game like that gets you in the mood for more gaming, so I thought to myself: "Hey, I should plop down $160 for Fable II!"Actually that's not exactly what I thought, but it's what happened.  I bought the game for $60, fired it up, got up to the part in the intro where a bird craps on</summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/6843486152459185712/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=6843486152459185712' title='26 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6843486152459185712'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6843486152459185712'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/12/fable-ii-arguably-better-than-getting.html' title='Fable II:  Arguably Better than Getting Your Head Crapped On'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>26</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-6838681409792590746</id>
+        <published>2008-11-16T22:19:00.000-08:00</published>
+        <updated>2008-11-16T23:01:46.867-08:00</updated>
+        <title type='text'>Ejacs:  a JavaScript interpreter for Emacs</title>
+        <summary type='text'>So!  I have all these cool things I want to write about, but I broke my thumbnail.  Can you tell that's a long story?See, this summer I got excited about playing guitar again.  I usually switch between all-guitar and all-piano every other year or so.  This summer I dusted off the guitars and learned a bunch of pieces, and even composed one.  I was prepping for — among other things — a multimedia </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/6838681409792590746/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=6838681409792590746' title='79 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6838681409792590746'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6838681409792590746'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/11/ejacs-javascript-interpreter-for-emacs.html' title='Ejacs:  a JavaScript interpreter for Emacs'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>79</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-3167740835000911553</id>
+        <published>2008-10-28T21:52:00.000-07:00</published>
+        <updated>2008-11-18T01:54:41.540-08:00</updated>
+        <title type='text'>A programmer's view of the Universe, part 1:  The fish</title>
+        <summary type='text'>I write a column for computer programmers called "Stevey's Blog Rants."  It's basically a magazine column — I publish to it about once a month.  The average length of my articles is about 12 pages, although they can range anywhere from 4 to 40 pages, depending on how I'm feeling.  But for precedent, don't think blogs:  think of Reader's Digest.  The blog format sets the wrong expectations.Hence, </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/3167740835000911553/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=3167740835000911553' title='94 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/3167740835000911553'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/3167740835000911553'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/10/programmers-view-of-universe-part-1.html' title='A programmer&apos;s view of the Universe, part 1:  The fish'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>94</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-1884084396857380426</id>
+        <published>2008-10-20T03:06:00.000-07:00</published>
+        <updated>2008-11-18T02:02:27.393-08:00</updated>
+        <title type='text'>The Universal Design Pattern</title>
+        <summary type='text'>   This idea that there is generality in the specific is of far-reaching importance. — Douglas Hofstadter, Gödel, Escher, Bach Note:  Today's entry is a technical article: it isn't funny.  At least not intentionally.Update, Oct 20th 2008:  I've added an Updates section, where I'll try to track significant responses, at least for a week or so.  There are three entries so far.Contents    </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/1884084396857380426/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=1884084396857380426' title='131 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/1884084396857380426'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/1884084396857380426'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html' title='The Universal Design Pattern'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>131</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-8674001010387105099</id>
+        <published>2008-09-28T23:08:00.000-07:00</published>
+        <updated>2008-09-28T23:16:39.037-07:00</updated>
+        <title type='text'>The Bellic School of Management Training</title>
+        <summary type='text'>I haven't been blogging much this summer.  Mostly it's because all my free time has been spent engaged in an important research project called "What Would Niko Bellic Do?"  I've been enrolled in a high-quality Management Scenario Simulator with the unconventional name "Grand Theft Auto IV", probably some sort of inside joke, and I've been going through all its Developer Management training </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/8674001010387105099/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=8674001010387105099' title='56 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8674001010387105099'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8674001010387105099'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/09/bellic-school-of-management-training.html' title='The Bellic School of Management Training'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>56</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-8755972693649369603</id>
+        <published>2008-09-10T16:59:00.000-07:00</published>
+        <updated>2008-09-10T18:22:20.896-07:00</updated>
+        <title type='text'>Programming's Dirtiest Little Secret</title>
+        <summary type='text'> "And as for this non-college bullshit I got two words for that: learn to fuckin' type"— Mr. PinkThis is another one I've wanted to write forever.  Man, I've tried a bunch of times.  No ruck.  Not Rucky.  Once again I'm stuck feeling so strongly about something that I'm tripping over myself trying to get my point across.So!  Only one thing left to try: bust open a bottle of wine and see if that </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/8755972693649369603/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=8755972693649369603' title='202 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8755972693649369603'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8755972693649369603'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html' title='Programming&apos;s Dirtiest Little Secret'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>202</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-2481411935612760666</id>
+        <published>2008-08-12T00:57:00.000-07:00</published>
+        <updated>2008-08-12T03:24:51.056-07:00</updated>
+        <title type='text'>Business Requirements are Bullshit</title>
+        <summary type='text'>Some CEO emailed me the other day.  I don't remember who it was; people mail me all the time about their blah blah yawn product service thingy, and on the rare occasions I bother to read mail from strangers, I don't usually remember anything about the email, even if I respond to it.  I can remember broad categories of questions I get, but everything else is just a blur.  That's senility for </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/2481411935612760666/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=2481411935612760666' title='167 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2481411935612760666'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2481411935612760666'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/08/business-requirements-are-bullshit.html' title='Business Requirements are Bullshit'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>167</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-6403534481155283036</id>
+        <published>2008-06-16T18:44:00.000-07:00</published>
+        <updated>2008-11-18T03:30:16.299-08:00</updated>
+        <title type='text'>Done, and Gets Things Smart</title>
+        <summary type='text'>Disclaimer:  I do not speak for Google!  These are my own views and opinions, and are not endorsed in any way by my employer, nor anyone else, for that matter.Everyone knows and quotes Joel's old chestnut, "Smart, and Gets Things Done."  It was a blog, then a book, and now it's an aphorism.People quote Joel's Proverb all the time because it gives us all such a nice snuggly feeling.  Why?  Because</summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/6403534481155283036/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=6403534481155283036' title='98 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6403534481155283036'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6403534481155283036'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html' title='Done, and Gets Things Smart'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>98</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-2816194821239451956</id>
+        <published>2008-06-14T14:11:00.000-07:00</published>
+        <updated>2008-12-08T21:38:52.135-08:00</updated>
+        <title type='text'>Rhinos and Tigers</title>
+        <summary type='text'>I will once again plagiarize myself by transcribing a talk I gave.First: be warned!  I offer this gesture of respect to you — yes, you! — when I say that this is at least 20 minutes of reading.  This is long even for me.  If you're surfing reddit, gobbling up little information snacks, then it's best to think of this entry as being more like a big downer cow.  Unless you're really hungry, you </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/2816194821239451956/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=2816194821239451956' title='99 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2816194821239451956'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2816194821239451956'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/06/rhinos-and-tigers.html' title='Rhinos and Tigers'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='http://2.bp.blogspot.com/__0laCHgF5uc/SFRQkA2vFdI/AAAAAAAAAGs/iNLcJLJGVms/s72-c/rhino.002.jpg' height='72' width='72'/>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>99</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-892105220382526061</id>
+        <published>2008-05-11T21:11:00.000-07:00</published>
+        <updated>2008-12-08T21:38:56.945-08:00</updated>
+        <title type='text'>Dynamic Languages Strike Back</title>
+        <summary type='text'>Some guys at Stanford invited me to speak at their EE Computer Systems Colloquium last week.  Pretty cool, eh?  It was quite an honor.  I wound up giving a talk on dynamic languages:  the tools, the performance, the history, the religion, everything.  It was a lot of fun, and it went over surprisingly well, all things considered.They've uploaded the video of my talk, but since it's a full hour, I</summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/892105220382526061/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=892105220382526061' title='111 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/892105220382526061'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/892105220382526061'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html' title='Dynamic Languages Strike Back'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='http://1.bp.blogspot.com/__0laCHgF5uc/SCfbhsOp-SI/AAAAAAAAACM/4A8Drv7uAvw/s72-c/thumbnail000.jpg' height='72' width='72'/>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>111</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-4927651211203602141</id>
+        <published>2008-04-28T04:01:00.000-07:00</published>
+        <updated>2008-04-28T05:53:10.554-07:00</updated>
+        <title type='text'>XEmacs is Dead.  Long Live XEmacs!</title>
+        <summary type='text'> "We're going to get lynched, aren't we?" — PhouchgAnd you thought I'd given up on controversial blogs.  Hah!PreambleThis must be said:  Jamie Zawinski is a hero.  A living legend.  A major powerhouse programmer who, among his many other accomplishments, wrote the original Netscape Navigator and the original XEmacs. A guy who can use the term "downward funargs" and then glare at you just daring </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/4927651211203602141/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=4927651211203602141' title='118 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/4927651211203602141'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/4927651211203602141'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/04/xemacs-is-dead-long-live-xemacs.html' title='XEmacs is Dead.  Long Live XEmacs!'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>118</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-6511252823989446790</id>
+        <published>2008-04-24T17:59:00.000-07:00</published>
+        <updated>2008-04-25T02:38:00.271-07:00</updated>
+        <title type='text'>Settling the OS X focus-follows-mouse debate</title>
+        <summary type='text'>I recently switched to using OS X full-time for all my client-side computing.  Still using Linux on the backends, of course, at home and at work, but I now use Macs for my client machines.I'm not a Mac fanboy.  I'm sort of a wannabe Mac fanboy, but I'm not familiar enough with the OS yet (either as a user or as a programmer) to really rave about it.  I will say this: it was kinda fun turning off </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/6511252823989446790/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=6511252823989446790' title='209 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6511252823989446790'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6511252823989446790'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/04/settling-osx-focus-follows-mouse-debate.html' title='Settling the OS X focus-follows-mouse debate'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>209</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-2530733117457376021</id>
+        <published>2008-03-30T20:51:00.000-07:00</published>
+        <updated>2008-03-30T21:43:35.506-07:00</updated>
+        <title type='text'>js2-mode:  a new JavaScript mode for Emacs</title>
+        <summary type='text'>I've written a new JavaScript editing mode for GNU Emacs, and released it on code.google.com.This is part of a larger project, in progress, to permit writing Emacs extensions in JavaScript instead of Emacs-Lisp.  Lest ye judge:  hey, some people swing that way.  The larger project is well underway, but probably won't be out until late summer or early fall.My new editing mode is called js2-mode, </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/2530733117457376021/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=2530733117457376021' title='152 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2530733117457376021'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2530733117457376021'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/03/js2-mode-new-javascript-mode-for-emacs.html' title='js2-mode:  a new JavaScript mode for Emacs'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>152</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-8155405156547617380</id>
+        <published>2008-03-16T20:42:00.000-07:00</published>
+        <updated>2008-03-16T21:58:19.243-07:00</updated>
+        <title type='text'>Four console games you might like...</title>
+        <summary type='text'>I only play a handful of games a year, so I haven't written a game review since my post on Oblivion a year ago.  But since then I've played a few unusually good games, including one awesome PS/3 title last weekend, so I figured it's time for another review.First, here's my gamer profile, so you can decide now whether reading any further is worth your time.  I'm a console guy.  I don't play games </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/8155405156547617380/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=8155405156547617380' title='54 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8155405156547617380'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8155405156547617380'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/03/four-console-games-you-might-like.html' title='Four console games you might like...'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>54</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-1391385784776498111</id>
+        <published>2008-03-12T18:16:00.000-07:00</published>
+        <updated>2008-03-15T15:07:03.095-07:00</updated>
+        <title type='text'>Get that job at Google</title>
+        <summary type='text'>I've been meaning to write up some tips on interviewing at Google for a good long time now.  I keep putting it off, though, because it's going to make you mad.  Probably.  For some statistical definition of "you", it's very likely to upset you.Why?  Because... well, here, I wrote a little ditty about it:Hey man, I don't know that stuffStevey's talking abooooooutIf my boss thinks it's importantI'm</summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/1391385784776498111/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=1391385784776498111' title='130 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/1391385784776498111'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/1391385784776498111'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html' title='Get that job at Google'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>130</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-401543012827997841</id>
+        <published>2008-02-10T20:21:00.000-08:00</published>
+        <updated>2008-02-17T22:10:25.686-08:00</updated>
+        <title type='text'>Portrait of a N00b</title>
+        <summary type='text'>&lt;!--  body {color: #000000;background-color: #ffffff;} .builtin {/* font-lock-builtin-face */color: #6a5acd;} .comment {/* font-lock-comment-face */color: #006400;} .comment-delimiter {} .doc {} .firebrick {/* font-lock-firebrick-face */color: #b22222;} .function-name {/* font-lock-function-name-face */color: #cd2626;} .keyword {/* font-lock-keyword-face */color: #0000cd;} .peru {/* </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/401543012827997841/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=401543012827997841' title='116 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/401543012827997841'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/401543012827997841'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/02/portrait-of-n00b.html' title='Portrait of a N00b'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>116</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-8918653352713801467</id>
+        <published>2008-01-24T14:47:00.000-08:00</published>
+        <updated>2008-12-24T18:02:23.586-08:00</updated>
+        <title type='text'>Emergency Elisp</title>
+        <summary type='text'>Are you an Emacs user but don't know Lisp?  Welcome to my first Emacs Lisp primer!  This should hopefully help get you over the hurdle so you can have more control over your Emacs sessions.There are lots of ways to do things in Lisp, and some are "Lispier" than others.  I'm going to focus on how to do things you probably already know how to do from C++ or Java.I'm mostly focusing on the language </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/8918653352713801467/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=8918653352713801467' title='47 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8918653352713801467'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/8918653352713801467'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/01/emergency-elisp.html' title='Emergency Elisp'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>47</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-2637698733401719646</id>
+        <published>2008-01-07T04:50:00.000-08:00</published>
+        <updated>2008-01-14T19:26:46.027-08:00</updated>
+        <title type='text'>Blogging Theory 201:  Size Does Matter</title>
+        <summary type='text'>I'm always getting criticized for writing long blogs.  "Way too verbose!  Couldn't he have said all that in two paragraphs?"  Not everyone feels that way, of course; lots of people tell me to keep doing what I'm doing.  But the size critics are doggedly persistent.  And I don't think it's just people who are slow readers.  Even friends of mine will sometimes advise me to trim my entries down, </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/2637698733401719646/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=2637698733401719646' title='46 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2637698733401719646'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/2637698733401719646'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2008/01/blogging-theory-201-size-does-matter.html' title='Blogging Theory 201:  Size Does Matter'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>46</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-3053902076178779825</id>
+        <published>2007-12-19T06:01:00.000-08:00</published>
+        <updated>2007-12-19T15:03:08.129-08:00</updated>
+        <title type='text'>Code's Worst Enemy</title>
+        <summary type='text'>I'm a programmer, and I'm on vacation today.  Guess what I'm doing?  As much as I'd love to tell you I'm sipping Mai Tais in the Bahamas, what I'm actually doing on my vacation is programming.So it's a "vacation" only in the HR sense – I'm taking official time off work, to give myself some free time to get my computer game back online.  It's a game I started writing about ten years ago, and spent</summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/3053902076178779825/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=3053902076178779825' title='190 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/3053902076178779825'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/3053902076178779825'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2007/12/codes-worst-enemy.html' title='Code&apos;s Worst Enemy'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>190</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-6554165486224410899</id>
+        <published>2007-12-06T16:14:00.000-08:00</published>
+        <updated>2007-12-17T12:40:22.145-08:00</updated>
+        <title type='text'>Boring Stevey Status Update</title>
+        <summary type='text'>I had an exciting morning of not getting fired today.  Get this:  I'm on a trip to Google's Mountain View headquarters, and was glancing at Reddit between meetings, and lo and behold, I was inexplicably in the Reddit Tabloids again, this time for being fired, or so people were speculating (far too hopefully, I might add.  Geez.)  Needless to say, I immediately put all my other work-related plans </summary>
+        <link rel='replies' type='application/atom+xml' href='http://steve-yegge.blogspot.com/feeds/6554165486224410899/comments/default' title='Post Comments'/>
+        <link rel='replies' type='text/html' href='https://www.blogger.com/comment.g?blogID=13674163&amp;postID=6554165486224410899' title='56 Comments'/>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6554165486224410899'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/6554165486224410899'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2007/12/boring-stevey-status-update.html' title='Boring Stevey Status Update'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+        <thr:total xmlns:thr='http://purl.org/syndication/thread/1.0'>56</thr:total>
+    </entry>
+    <entry>
+        <id>tag:blogger.com,1999:blog-13674163.post-1513273016529355021</id>
+        <published>2007-09-25T21:17:00.000-07:00</published>
+        <updated>2007-12-20T18:17:10.714-08:00</updated>
+        <title type='text'>Ten Tips for a (Slightly) Less Awful Resume</title>
+        <summary type='text'>Objective:  Obtain a position at IBM-- some idiot applying to Amazon.comWARNING:  These are my own *personal* opinions, not Google's or Amazon's or anyone else's.  I do think you'll find that most resume screeners at tech companies — particularly tech companies that build their own software in-house, like Yahoo! or eBay or Amazon.com or Microsoft or Google — will agree with a lot of this stuff, </summary>
+        <link rel='edit' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/1513273016529355021'/>
+        <link rel='self' type='application/atom+xml' href='http://www.blogger.com/feeds/13674163/posts/default/1513273016529355021'/>
+        <link rel='alternate' type='text/html' href='http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html' title='Ten Tips for a (Slightly) Less Awful Resume'/>
+        <author>
+            <name>Steve Yegge</name>
+            <uri>http://www.blogger.com/profile/14812997485690838920</uri>
+            <email>noreply@blogger.com</email>
+            <gd:extendedProperty xmlns:gd='http://schemas.google.com/g/2005' name='OpenSocialUserId' value='07896379554648711154'/>
+        </author>
+    </entry>
+</feed>

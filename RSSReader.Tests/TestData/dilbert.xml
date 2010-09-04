@@ -1,0 +1,101 @@
+﻿<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel>
+        <title><![CDATA[Dilbert Daily Strip]]></title>
+        <link><![CDATA[http://dilbert.com/]]></link>
+        <description><![CDATA[The Official Dilbert Daily Comic Strip RSS Feed]]></description>
+        <language><![CDATA[en-us]]></language>
+        <generator><![CDATA[VPI.Net]]></generator>
+        <managingEditor><![CDATA[service@dilbert.com (VPI.Net)]]></managingEditor>
+        <webMaster><![CDATA[service@dilbert.com (VPI.Net)]]></webMaster>
+        <ttl><![CDATA[5]]></ttl>
+        <pubDate><![CDATA[Mon, 21 Dec 2009 00:00:00 PST]]></pubDate>
+        <lastBuildDate><![CDATA[Mon, 21 Dec 2009 00:00:00 PST]]></lastBuildDate>
+
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.dilbert.com/DilbertDailyStrip" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com" />
+        <item>
+            <title><![CDATA[Comic for December 21, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/s0Mk7LmO7Yo/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/7000/300/77350/77350.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/pIv3YsovD3PpAkhHVwhHRPzqfXQ/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/pIv3YsovD3PpAkhHVwhHRPzqfXQ/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/pIv3YsovD3PpAkhHVwhHRPzqfXQ/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/pIv3YsovD3PpAkhHVwhHRPzqfXQ/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/s0Mk7LmO7Yo" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Mon, 21 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-21/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-21/</feedburner:origLink>
+        </item>
+        <item>
+            <title><![CDATA[Comic for December 20, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/Yx80VOVgpGI/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/6000/700/76737/76737.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/tMUt0vMmh1DOxxOaRzGBnlwGv_0/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/tMUt0vMmh1DOxxOaRzGBnlwGv_0/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/tMUt0vMmh1DOxxOaRzGBnlwGv_0/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/tMUt0vMmh1DOxxOaRzGBnlwGv_0/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/Yx80VOVgpGI" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Sun, 20 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-20/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-20/</feedburner:origLink>
+        </item>
+        <item>
+            <title><![CDATA[Comic for December 19, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/sQ3HF7W12vk/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/6000/700/76736/76736.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/zDFfwDuHjxGgL2O6eToXv93rT5Q/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/zDFfwDuHjxGgL2O6eToXv93rT5Q/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/zDFfwDuHjxGgL2O6eToXv93rT5Q/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/zDFfwDuHjxGgL2O6eToXv93rT5Q/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/sQ3HF7W12vk" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Sat, 19 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-19/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-19/</feedburner:origLink>
+        </item>
+        <item>
+            <title><![CDATA[Comic for December 18, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/qzg1IkRDGgc/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/6000/700/76735/76735.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/YdOt-RVjLZ2w-MJmTMrjiGiSaE8/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/YdOt-RVjLZ2w-MJmTMrjiGiSaE8/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/YdOt-RVjLZ2w-MJmTMrjiGiSaE8/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/YdOt-RVjLZ2w-MJmTMrjiGiSaE8/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/qzg1IkRDGgc" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Fri, 18 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-18/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-18/</feedburner:origLink>
+        </item>
+        <item>
+            <title><![CDATA[Comic for December 17, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/eNJnoj4P53U/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/6000/700/76734/76734.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/Dlz8_wpZp6FWCLIipnsfblynLf8/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/Dlz8_wpZp6FWCLIipnsfblynLf8/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/Dlz8_wpZp6FWCLIipnsfblynLf8/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/Dlz8_wpZp6FWCLIipnsfblynLf8/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/eNJnoj4P53U" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Thu, 17 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-17/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-17/</feedburner:origLink>
+        </item>
+        <item>
+            <title><![CDATA[Comic for December 16, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/tIPdPpS8vp0/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/6000/700/76733/76733.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/ykeYdM1FULoN6dlF5h5nD-pyHqE/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/ykeYdM1FULoN6dlF5h5nD-pyHqE/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/ykeYdM1FULoN6dlF5h5nD-pyHqE/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/ykeYdM1FULoN6dlF5h5nD-pyHqE/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/tIPdPpS8vp0" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Wed, 16 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-16/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-16/</feedburner:origLink>
+        </item>
+        <item>
+            <title><![CDATA[Comic for December 15, 2009]]></title>
+            <link>http://feeds.dilbert.com/~r/DilbertDailyStrip/~3/IehJ1tkRRyE/</link>
+            <description>
+                &lt;img src="http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/6000/700/76732/76732.strip.print.gif" border="0" /&gt;
+                &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/jvTJL8PVXQ9Qv9yEeeyA2Plm6qk/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/jvTJL8PVXQ9Qv9yEeeyA2Plm6qk/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+                &lt;a href="http://feedads.g.doubleclick.net/~at/jvTJL8PVXQ9Qv9yEeeyA2Plm6qk/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/jvTJL8PVXQ9Qv9yEeeyA2Plm6qk/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DilbertDailyStrip/~4/IehJ1tkRRyE" height="1" width="1"/&gt;
+            </description>
+            <pubDate><![CDATA[Tue, 15 Dec 2009 00:00:00 PST]]></pubDate>
+            <guid isPermaLink="false"><![CDATA[http://dilbert.com/strips/comic/2009-12-15/]]></guid>
+            <feedburner:origLink>http://dilbert.com/strips/comic/2009-12-15/</feedburner:origLink>
+        </item>
+    </channel>
+</rss>

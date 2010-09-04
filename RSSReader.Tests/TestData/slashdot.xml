@@ -1,0 +1,324 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+    <channel rdf:about="http://slashdot.org/">
+        <title>Slashdot</title>
+        <link>http://slashdot.org/</link>
+        <description>News for nerds, stuff that matters</description>
+        <dc:language>en-us</dc:language>
+        <dc:rights>Copyright 1997-2009, Geeknet, Inc.  All Rights Reserved.</dc:rights>
+        <dc:date>2009-12-19T10:20:14+00:00</dc:date>
+        <dc:publisher>Geeknet, Inc.</dc:publisher>
+        <dc:creator>help@slashdot.org</dc:creator>
+        <dc:subject>Technology</dc:subject>
+        <syn:updatePeriod>hourly</syn:updatePeriod>
+        <syn:updateFrequency>1</syn:updateFrequency>
+        <syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://tech.slashdot.org/story/09/12/19/0059221/Google-Open-Sources-Etherpad-Piratepad-Launches?from=rss" />
+                <rdf:li rdf:resource="http://science.slashdot.org/story/09/12/19/005236/Caltech-Scientists-Film-Photons-With-Electrons?from=rss" />
+                <rdf:li rdf:resource="http://apple.slashdot.org/story/09/12/18/2346213/Psystar-Not-Closing-Up-Shop?from=rss" />
+                <rdf:li rdf:resource="http://yro.slashdot.org/story/09/12/18/2123215/Mandatory-Use-of-Open-Standards-In-Hungary?from=rss" />
+                <rdf:li rdf:resource="http://mobile.slashdot.org/story/09/12/18/2033222/First-Look-At-Latest-Ion-Infused-Asus-Eee-PC?from=rss" />
+                <rdf:li rdf:resource="http://tech.slashdot.org/story/09/12/18/2028258/Google-In-Talks-To-Buy-Yelp?from=rss" />
+                <rdf:li rdf:resource="http://tech.slashdot.org/story/09/12/18/2016201/25000-of-Communications-Gear-In-a-500-Car?from=rss" />
+                <rdf:li rdf:resource="http://yro.slashdot.org/story/09/12/18/1835258/Google-Found-Guilty-of-French-Copyright-Infringement?from=rss" />
+                <rdf:li rdf:resource="http://games.slashdot.org/story/09/12/18/1649253/Microsoft-Seeks-Patent-On-Shaming-Fat-Gamers?from=rss" />
+                <rdf:li rdf:resource="http://tech.slashdot.org/story/09/12/18/1810250/DECAF-Was-Just-a-Stunt-Now-Over?from=rss" />
+                <rdf:li rdf:resource="http://yro.slashdot.org/story/09/12/18/1512228/Yes-Google-Does-De-List-Pages-But-When?from=rss" />
+                <rdf:li rdf:resource="http://developers.slashdot.org/story/09/12/18/1646254/First-MySQL-55-Beta-Released?from=rss" />
+                <rdf:li rdf:resource="http://mobile.slashdot.org/story/09/12/18/1638232/US-McDonalds-Wi-Fi-Going-Free-In-January?from=rss" />
+                <rdf:li rdf:resource="http://apple.slashdot.org/story/09/12/18/1626237/iPhone-Has-46-of-Japanese-Smartphone-Market?from=rss" />
+                <rdf:li rdf:resource="http://yro.slashdot.org/story/09/12/18/1531216/EU-Demands-Canada-Rework-Its-Copyright-Patent-Law?from=rss" />
+            </rdf:Seq>
+        </items>
+        <image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+        <textinput rdf:resource="http://slashdot.org/search.pl" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com" />
+    </channel>
+
+    <image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+        <title>Slashdot</title>
+        <url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+        <link>http://slashdot.org/</link>
+    </image>
+
+    <item rdf:about="http://tech.slashdot.org/story/09/12/19/0059221/Google-Open-Sources-Etherpad-Piratepad-Launches?from=rss">
+        <title>Google Open Sources Etherpad, Piratepad Launches</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CeGPcBun9HU/Google-Open-Sources-Etherpad-Piratepad-Launches</link>
+        <description>
+            Thomas Nybergh writes "The Etherpad code was released by Google under the Apache license a few hours ago. Google's initial plan, after acquiring the service, was to use Etherpad's tech with its new Wave collaboration platform and to shut down the original service entirely. Soon after the Etherpad code was released, the Swedish Pirate Party launched their instance of the service at piratepad.net. An announcement, which also mentions a new Tor node, is published on the party website (Google translation). The original Etherpad service had in a short time become a killer application for collaborative work within at least the Swedish, and according to my personal experience, in the Finnish Pirate Party as well. The Etherpad open source project is available at Google Code."&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/19/0059221/Google-Open-Sources-Etherpad-Piratepad-Launches?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/19/0059221"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/19/0059221/Google-Open-Sources-Etherpad-Piratepad-Launches?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/X6oublHNgEPNwfonQlZj6WbEm64/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/X6oublHNgEPNwfonQlZj6WbEm64/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/X6oublHNgEPNwfonQlZj6WbEm64/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/X6oublHNgEPNwfonQlZj6WbEm64/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CeGPcBun9HU" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-19T07:30:00+00:00</dc:date>
+        <dc:subject>google</dc:subject>
+        <slash:department>fair-play</slash:department>
+        <slash:section>technology</slash:section>
+        <slash:comments>32</slash:comments>
+        <slash:hit_parade>32,27,22,17,6,4,2</slash:hit_parade>
+        <feedburner:origLink>http://tech.slashdot.org/story/09/12/19/0059221/Google-Open-Sources-Etherpad-Piratepad-Launches?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://science.slashdot.org/story/09/12/19/005236/Caltech-Scientists-Film-Photons-With-Electrons?from=rss">
+        <title>Caltech Scientists Film Photons With Electrons</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8n2jzoGi3SE/Caltech-Scientists-Film-Photons-With-Electrons</link>
+        <description>
+            al0ha writes "Techniques recently invented by researchers at the California Institute of Technology which allow the real-time, real-space visualization of fleeting changes in the structure of nanoscale matter have been used to image the evanescent electrical fields produced by the interaction of electrons and photons, and to track changes in atomic-scale structures."&lt;p&gt;&lt;a href="http://science.slashdot.org/story/09/12/19/005236/Caltech-Scientists-Film-Photons-With-Electrons?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/19/005236"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/09/12/19/005236/Caltech-Scientists-Film-Photons-With-Electrons?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/tnXGk3zRjPxKjDgoqT9XI1yhMEo/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/tnXGk3zRjPxKjDgoqT9XI1yhMEo/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/tnXGk3zRjPxKjDgoqT9XI1yhMEo/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/tnXGk3zRjPxKjDgoqT9XI1yhMEo/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8n2jzoGi3SE" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-19T04:33:00+00:00</dc:date>
+        <dc:subject>science</dc:subject>
+        <slash:department>tiny-pictures</slash:department>
+        <slash:section>science</slash:section>
+        <slash:comments>26</slash:comments>
+        <slash:hit_parade>26,25,20,16,7,4,2</slash:hit_parade>
+        <feedburner:origLink>http://science.slashdot.org/story/09/12/19/005236/Caltech-Scientists-Film-Photons-With-Electrons?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://apple.slashdot.org/story/09/12/18/2346213/Psystar-Not-Closing-Up-Shop?from=rss">
+        <title>Psystar Not Closing Up Shop</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7IxW_zFW_OI/Psystar-Not-Closing-Up-Shop</link>
+        <description>
+            Despite several sources reporting that post-indefinite-injunction Psystar was closing their doors for good, the company's lawyer is claiming Psystar plans on going forward with PC sales &amp;mdash; they just won't be pre-loaded with Apple's OS X. Psystar plans on selling systems pre-loaded with "other operating systems," including Windows, as well as selling their "Rebel EFI software" that allows consumers to load OS X on generic PCs.&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/09/12/18/2346213/Psystar-Not-Closing-Up-Shop?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/2346213"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/09/12/18/2346213/Psystar-Not-Closing-Up-Shop?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/0H9IVunL49aBYkwQehfZkU5ZVQ8/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/0H9IVunL49aBYkwQehfZkU5ZVQ8/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/0H9IVunL49aBYkwQehfZkU5ZVQ8/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/0H9IVunL49aBYkwQehfZkU5ZVQ8/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7IxW_zFW_OI" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-19T01:24:00+00:00</dc:date>
+        <dc:subject>business</dc:subject>
+        <slash:department>but-i-don't-want-to-go-on-the-cart</slash:department>
+        <slash:section>apple</slash:section>
+        <slash:comments>245</slash:comments>
+        <slash:hit_parade>245,239,195,164,44,23,14</slash:hit_parade>
+        <feedburner:origLink>http://apple.slashdot.org/story/09/12/18/2346213/Psystar-Not-Closing-Up-Shop?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://yro.slashdot.org/story/09/12/18/2123215/Mandatory-Use-of-Open-Standards-In-Hungary?from=rss">
+        <title>Mandatory Use of Open Standards In Hungary</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UOpHg5a0LzU/Mandatory-Use-of-Open-Standards-In-Hungary</link>
+        <description>
+            qpeter writes "Hungarian Parliament has made the use of open standards mandatory by law in the intercommunication between public administration offices, public utility companies, citizens and voluntarily joining private companies, conducted via the central governmental system. The Open Standards Alliance initiating the amendment aims to promote the spread of monopoly-free markets that foster the development of interchangeable and interoperable products generated by open standards, and, consequently, broad competition markets, regardless of whether the IT systems of interconnecting organizations and individuals use open or closed source software. In the near future, in spite of EU tendencies the Alliance seeks to make its approach &amp;ndash; interoperability based on publicly defined open standards &amp;ndash; the EU norm under the Hungarian presidency of the European Union in 2011. To that end, it will promote public collaboration &amp;ndash; possibly between every interested party, civil and political organization in the European Union. What do you think: what would be the best way to cooperate?"&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/2123215/Mandatory-Use-of-Open-Standards-In-Hungary?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/2123215"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/2123215/Mandatory-Use-of-Open-Standards-In-Hungary?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/we2FRl_9iY09_llZY45aZ1Scyjs/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/we2FRl_9iY09_llZY45aZ1Scyjs/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/we2FRl_9iY09_llZY45aZ1Scyjs/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/we2FRl_9iY09_llZY45aZ1Scyjs/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UOpHg5a0LzU" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-18T23:20:00+00:00</dc:date>
+        <dc:subject>government</dc:subject>
+        <slash:department>you'll-be-open-and-like-it</slash:department>
+        <slash:section>yro</slash:section>
+        <slash:comments>110</slash:comments>
+        <slash:hit_parade>110,104,81,62,21,12,7</slash:hit_parade>
+        <feedburner:origLink>http://yro.slashdot.org/story/09/12/18/2123215/Mandatory-Use-of-Open-Standards-In-Hungary?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://mobile.slashdot.org/story/09/12/18/2033222/First-Look-At-Latest-Ion-Infused-Asus-Eee-PC?from=rss">
+        <title>First Look At Latest Ion-Infused Asus Eee PC</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ATV4EfDwGK4/First-Look-At-Latest-Ion-Infused-Asus-Eee-PC</link>
+        <description>
+            MojoKid writes "Atom-based netbooks have come a long way since they were first introduced. 7 and 8-inch netbooks are no longer the norm, and availability of 12-inch netbooks is on the rise. The newest member of the Asus Eee PC lineup is the Eee PC 1201N, and it really stands out in the crowd of netbook in terms of specifications. The machine features a 12.1" HD display, new dual-core Atom 330 CPU, 2GB of DDR2 RAM, Windows 7 Home Premium, an HDMI output and NVIDIA's Ion chipset with integrated GPU. HotHardware was able to demo the system's ability to handle more advanced benchmarks, thanks in part to the Ion GPU. It's also the first netbook they tested that could actually play older 3D titles respectably. You won't get Crysis running but lighter duty titles can be played back nicely if you tone the details down and lower the resolution. The 1201N also played back 720p and 1080p content without stuttering, and the dual-core CPU allowed enough headroom to multitask while videos were playing."&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/09/12/18/2033222/First-Look-At-Latest-Ion-Infused-Asus-Eee-PC?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/2033222"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/09/12/18/2033222/First-Look-At-Latest-Ion-Infused-Asus-Eee-PC?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/nRgiHzHjNZN8d7TOySIzzGYLnjY/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/nRgiHzHjNZN8d7TOySIzzGYLnjY/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/nRgiHzHjNZN8d7TOySIzzGYLnjY/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/nRgiHzHjNZN8d7TOySIzzGYLnjY/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ATV4EfDwGK4" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-18T22:31:00+00:00</dc:date>
+        <dc:subject>intel</dc:subject>
+        <slash:department>its-got-what-plants-crave</slash:department>
+        <slash:section>mobile</slash:section>
+        <slash:comments>236</slash:comments>
+        <slash:hit_parade>236,235,204,177,43,25,10</slash:hit_parade>
+        <feedburner:origLink>http://mobile.slashdot.org/story/09/12/18/2033222/First-Look-At-Latest-Ion-Infused-Asus-Eee-PC?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://tech.slashdot.org/story/09/12/18/2028258/Google-In-Talks-To-Buy-Yelp?from=rss">
+        <title>Google In Talks To Buy Yelp</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_8DHTqReLVQ/Google-In-Talks-To-Buy-Yelp</link>
+        <description>
+            There have been many rumors floating around concerning a possible buyout of Yelp by Google, but it appears that at least a few details have escaped, painting this as a much more serious possibility. Pointing the needle to something north of $500 million, the acquisition would mean a substantial step into localized business for Google. "Google has been showing greater interest in the local business market in the United States. It has expanded its profile pages for local businesses, which include location and hours, maps and reviews from other Web sites. In June, Google gave local businesses the ability to manage what people see on their profile pages, similar to what Yelp does. Google has been reaching out to local businesses with simpler ways to advertise on the search engine. It is also distributing stickers that businesses post in their windows and passers-by can scan with cellphones to get coupons or information about the business. The deal between Google and Yelp could still unravel, one person said, particularly if another acquirer comes forward now that details have leaked."&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/18/2028258/Google-In-Talks-To-Buy-Yelp?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/2028258"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/18/2028258/Google-In-Talks-To-Buy-Yelp?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/oE7kglkvBRfbdsf-CtbvL2WJSLM/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/oE7kglkvBRfbdsf-CtbvL2WJSLM/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/oE7kglkvBRfbdsf-CtbvL2WJSLM/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/oE7kglkvBRfbdsf-CtbvL2WJSLM/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_8DHTqReLVQ" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-18T21:48:00+00:00</dc:date>
+        <dc:subject>business</dc:subject>
+        <slash:department>new-corporate-overlords</slash:department>
+        <slash:section>technology</slash:section>
+        <slash:comments>86</slash:comments>
+        <slash:hit_parade>86,85,72,62,24,13,9</slash:hit_parade>
+        <feedburner:origLink>http://tech.slashdot.org/story/09/12/18/2028258/Google-In-Talks-To-Buy-Yelp?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://tech.slashdot.org/story/09/12/18/2016201/25000-of-Communications-Gear-In-a-500-Car?from=rss">
+        <title>$25,000 of Communications Gear In a $500 Car</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xsSqNOlZTaE/25000-of-Communications-Gear-In-a-500-Car</link>
+        <description>
+            In perhaps one of the finest displays of technological excess in automotive communications gear, one "enthusiast" has managed to cram over $25,000 worth of gear into a $500 car. The car is rigged for just about every conceivable communications band including FM, UHF, VHF, HF, and WTF. What other amazing displays of technological excess have others seen? "The equipment seems to cover an amazing array of technologies, many of which seem to be redundant. For instance, just how many handheld 144 MHz radios do you need? It seems like the owner of the Ham Car is capable of listening to every police/fire/ems/military channel in the world. Simultaneously. There's a laptop and we assume there's some form of cellular or satellite communication setup for that, too."&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/18/2016201/25000-of-Communications-Gear-In-a-500-Car?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/2016201"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/18/2016201/25000-of-Communications-Gear-In-a-500-Car?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/1Q1J3de421c_LGE5d2ryeHusBKI/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/1Q1J3de421c_LGE5d2ryeHusBKI/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/1Q1J3de421c_LGE5d2ryeHusBKI/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/1Q1J3de421c_LGE5d2ryeHusBKI/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xsSqNOlZTaE" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-18T21:01:00+00:00</dc:date>
+        <dc:subject>communications</dc:subject>
+        <slash:department>idle-hands</slash:department>
+        <slash:section>technology</slash:section>
+        <slash:comments>184</slash:comments>
+        <slash:hit_parade>184,180,145,103,28,17,13</slash:hit_parade>
+        <feedburner:origLink>http://tech.slashdot.org/story/09/12/18/2016201/25000-of-Communications-Gear-In-a-500-Car?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://yro.slashdot.org/story/09/12/18/1835258/Google-Found-Guilty-of-French-Copyright-Infringement?from=rss">
+        <title>Google Found Guilty of French Copyright Infringement</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rcG6HP1bDFo/Google-Found-Guilty-of-French-Copyright-Infringement</link>
+        <description>
+            adeelarshad82 writes "A Paris court on Friday found Google guilty of violating copyright by digitizing books and putting extracts online, following a legal challenge by major French publishers. The court found against Google after the La Martiniere group, which controls the highbrow Editions du Seuil publishing house, argued that publishers and authors were losing out in the latest stage of the digital revolution."&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/1835258/Google-Found-Guilty-of-French-Copyright-Infringement?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1835258"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/1835258/Google-Found-Guilty-of-French-Copyright-Infringement?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/dvThnk0sOCi_vM6i9iU7GwAkn9w/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/dvThnk0sOCi_vM6i9iU7GwAkn9w/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/dvThnk0sOCi_vM6i9iU7GwAkn9w/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/dvThnk0sOCi_vM6i9iU7GwAkn9w/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rcG6HP1bDFo" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-18T20:12:00+00:00</dc:date>
+        <dc:subject>court</dc:subject>
+        <slash:department>slap-on-the-wrist</slash:department>
+        <slash:section>yro</slash:section>
+        <slash:comments>194</slash:comments>
+        <slash:hit_parade>194,190,144,106,28,11,5</slash:hit_parade>
+        <feedburner:origLink>http://yro.slashdot.org/story/09/12/18/1835258/Google-Found-Guilty-of-French-Copyright-Infringement?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://games.slashdot.org/story/09/12/18/1649253/Microsoft-Seeks-Patent-On-Shaming-Fat-Gamers?from=rss">
+        <title>Microsoft Seeks Patent On Shaming Fat Gamers</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4o9aKQM3FwU/Microsoft-Seeks-Patent-On-Shaming-Fat-Gamers</link>
+        <description>
+            theodp writes "A newly disclosed Microsoft patent application &amp;mdash; Avatar Individualized by Physical Characteristic &amp;mdash; takes aim at fat people, proposing to generate fat avatars in gaming environments for individuals whose health records indicate they're overweight, limiting their game play, and even banning them. From the patent application: 'An undesirable body weight could be reflected in an overweight or underweight appearance for the avatar. Only requisite health levels are allowed to compete in a certain competition level. A dedicated gamer could exercise for a period of time until his health indicator gadget shows a sufficiently high health/health credit in order to allow reentering the avatar environment.' Linking one's gaming avatar to one's physique, explains Microsoft, will produce healthy and virtuous behaviors in individuals. Microsoft also proposes shaping gaming experiences by using 'psychological and demographic information such as education level, geographic location, age, sex, intelligence quotient, socioeconomic class, occupation, marital/relationship status, religious belief, political affiliation, etc.'"&lt;p&gt;&lt;a href="http://games.slashdot.org/story/09/12/18/1649253/Microsoft-Seeks-Patent-On-Shaming-Fat-Gamers?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1649253"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/09/12/18/1649253/Microsoft-Seeks-Patent-On-Shaming-Fat-Gamers?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/xRZ5gxGtyvKCNmpRMSk4eEmhfMY/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/xRZ5gxGtyvKCNmpRMSk4eEmhfMY/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/xRZ5gxGtyvKCNmpRMSk4eEmhfMY/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/xRZ5gxGtyvKCNmpRMSk4eEmhfMY/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4o9aKQM3FwU" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>samzenpus</dc:creator>
+        <dc:date>2009-12-18T19:32:00+00:00</dc:date>
+        <dc:subject>microsoft</dc:subject>
+        <slash:department>hand-me-the-controller-piggy</slash:department>
+        <slash:section>games</slash:section>
+        <slash:comments>457</slash:comments>
+        <slash:hit_parade>457,449,332,250,59,43,31</slash:hit_parade>
+        <feedburner:origLink>http://games.slashdot.org/story/09/12/18/1649253/Microsoft-Seeks-Patent-On-Shaming-Fat-Gamers?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://tech.slashdot.org/story/09/12/18/1810250/DECAF-Was-Just-a-Stunt-Now-Over?from=rss">
+        <title>DECAF Was Just a Stunt, Now Over</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xLhDj3MSHcE/DECAF-Was-Just-a-Stunt-Now-Over</link>
+        <description>
+            An anonymous reader writes to tell us of the de-activation of all copies of DECAF. The creators have announced that the DECAF project was nothing more than a "stunt to raise awareness for security and the need for better forensic tools." Originally DECAF was billed as a tool to stop Microsoft's forensic tool "COFEE" and was covered here earlier this week. In addition to their message of security the authors somehow manage to interject a discussion about religion, so who knows what the real goal was.&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/18/1810250/DECAF-Was-Just-a-Stunt-Now-Over?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1810250"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/09/12/18/1810250/DECAF-Was-Just-a-Stunt-Now-Over?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/n0s-YZozxq1j-CEbc5UD3I87fcM/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/n0s-YZozxq1j-CEbc5UD3I87fcM/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/n0s-YZozxq1j-CEbc5UD3I87fcM/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/n0s-YZozxq1j-CEbc5UD3I87fcM/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xLhDj3MSHcE" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>ScuttleMonkey</dc:creator>
+        <dc:date>2009-12-18T18:49:00+00:00</dc:date>
+        <dc:subject>microsoft</dc:subject>
+        <slash:department>insecure-security</slash:department>
+        <slash:section>technology</slash:section>
+        <slash:comments>187</slash:comments>
+        <slash:hit_parade>187,180,144,103,32,19,11</slash:hit_parade>
+        <feedburner:origLink>http://tech.slashdot.org/story/09/12/18/1810250/DECAF-Was-Just-a-Stunt-Now-Over?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://yro.slashdot.org/story/09/12/18/1512228/Yes-Google-Does-De-List-Pages-But-When?from=rss">
+        <title>Yes, Google Does De-List Pages; But When?</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9ynp7TbFcXA/Yes-Google-Does-De-List-Pages-But-When</link>
+        <description>
+            Frequent Slashdot contributor Bennett Haselton writes "Google finds itself inserting a disclaimer once again above some offensive search results. But the disclaimer still leads many to believe (incorrectly) that Google doesn't tamper with search results even in cases of 'harmful' or 'offensive' material. We know that Google has in fact de-listed some pages at the request of offended parties. What is their real policy on the issue?" Read on for Bennet's essay.&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/1512228/Yes-Google-Does-De-List-Pages-But-When?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1512228"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/1512228/Yes-Google-Does-De-List-Pages-But-When?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/Nzuloj__yIzD3K_EH8uZawcCrIY/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/Nzuloj__yIzD3K_EH8uZawcCrIY/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/Nzuloj__yIzD3K_EH8uZawcCrIY/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/Nzuloj__yIzD3K_EH8uZawcCrIY/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9ynp7TbFcXA" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>kdawson</dc:creator>
+        <dc:date>2009-12-18T18:04:00+00:00</dc:date>
+        <dc:subject>google</dc:subject>
+        <slash:department>how-offensive-is-too-offensive</slash:department>
+        <slash:section>yro</slash:section>
+        <slash:comments>118</slash:comments>
+        <slash:hit_parade>118,114,90,64,26,15,5</slash:hit_parade>
+        <feedburner:origLink>http://yro.slashdot.org/story/09/12/18/1512228/Yes-Google-Does-De-List-Pages-But-When?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://developers.slashdot.org/story/09/12/18/1646254/First-MySQL-55-Beta-Released?from=rss">
+        <title>First MySQL 5.5 Beta Released</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NLNNjGwnJ9Y/First-MySQL-55-Beta-Released</link>
+        <description>
+            joabj writes "While MySQL is the subject of much high-profile wrangling between the EU and Oracle (and the MySQL creator himself), the MySQL developers have been quietly moving the widely-used database software forward. The new beta version of MySQL, the first publicly available, features such improvements as near-asynchronous replication and more options for partitioning. A new release model has been enacted as well, bequeathing this version the title of 'MySQL Server 5.5.0-m2.' Downloads here."&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/09/12/18/1646254/First-MySQL-55-Beta-Released?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1646254"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/09/12/18/1646254/First-MySQL-55-Beta-Released?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/JWIOB7BE3Fq84k7tWCLgSRA6BfQ/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/JWIOB7BE3Fq84k7tWCLgSRA6BfQ/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/JWIOB7BE3Fq84k7tWCLgSRA6BfQ/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/JWIOB7BE3Fq84k7tWCLgSRA6BfQ/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NLNNjGwnJ9Y" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>kdawson</dc:creator>
+        <dc:date>2009-12-18T17:29:00+00:00</dc:date>
+        <dc:subject>database</dc:subject>
+        <slash:department>taking-care-of-business</slash:department>
+        <slash:section>developers</slash:section>
+        <slash:comments>82</slash:comments>
+        <slash:hit_parade>82,78,60,43,8,3,2</slash:hit_parade>
+        <feedburner:origLink>http://developers.slashdot.org/story/09/12/18/1646254/First-MySQL-55-Beta-Released?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://mobile.slashdot.org/story/09/12/18/1638232/US-McDonalds-Wi-Fi-Going-Free-In-January?from=rss">
+        <title>US McDonald's Wi-Fi Going Free In January</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EUsNnkwnyIk/US-McDonalds-Wi-Fi-Going-Free-In-January</link>
+        <description>
+            Knowzy writes "After five years behind a paywall, McDonalds plans to stop charging for its Wi-Fi in mid-January in the US. According to the Dallas Morning News, you aren't even required to make a purchase &amp;mdash; 'free is free,' a spokesman said. It's also been widely reported that they won't impose time limits on your surfing. With around 20,000 free hotspots between McDonald's and Starbucks (who went free[ish] earlier this year), anyone still charging for Wi-Fi is going to look foolish, if not downright greedy."&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/09/12/18/1638232/US-McDonalds-Wi-Fi-Going-Free-In-January?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1638232"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/09/12/18/1638232/US-McDonalds-Wi-Fi-Going-Free-In-January?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/VcGpLZpITxaxcFejmsZNU-FGD7A/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/VcGpLZpITxaxcFejmsZNU-FGD7A/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/VcGpLZpITxaxcFejmsZNU-FGD7A/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/VcGpLZpITxaxcFejmsZNU-FGD7A/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EUsNnkwnyIk" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>kdawson</dc:creator>
+        <dc:date>2009-12-18T17:23:00+00:00</dc:date>
+        <dc:subject>money</dc:subject>
+        <slash:department>fries-with-that</slash:department>
+        <slash:section>mobile</slash:section>
+        <slash:comments>364</slash:comments>
+        <slash:hit_parade>364,360,282,220,52,27,12</slash:hit_parade>
+        <feedburner:origLink>http://mobile.slashdot.org/story/09/12/18/1638232/US-McDonalds-Wi-Fi-Going-Free-In-January?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://apple.slashdot.org/story/09/12/18/1626237/iPhone-Has-46-of-Japanese-Smartphone-Market?from=rss">
+        <title>iPhone Has 46% of Japanese Smartphone Market</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/R3yPVIyUbek/iPhone-Has-46-of-Japanese-Smartphone-Market</link>
+        <description>
+            MBCook writes "Despite claims earlier in the year that the iPhone was hated by Japanese consumers (later disproved), the iPhone has been doing well in the land of the rising sun and the evidence is in. Apple has taken 46% of the Japanese smartphone market, cutting in half the once 27% market share of the previous lead, Advance Sharp W-Zero3 (Japanese site). The article includes a large chart of the market share of Japanese smartphones over the last 3 years."&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/09/12/18/1626237/iPhone-Has-46-of-Japanese-Smartphone-Market?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1626237"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://apple.slashdot.org/story/09/12/18/1626237/iPhone-Has-46-of-Japanese-Smartphone-Market?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/wcEBvQIguJyWSRzPgoWJPtpSct8/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/wcEBvQIguJyWSRzPgoWJPtpSct8/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/wcEBvQIguJyWSRzPgoWJPtpSct8/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/wcEBvQIguJyWSRzPgoWJPtpSct8/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/R3yPVIyUbek" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>kdawson</dc:creator>
+        <dc:date>2009-12-18T16:41:00+00:00</dc:date>
+        <dc:subject>cellphones</dc:subject>
+        <slash:department>it's-little-it's-lovely</slash:department>
+        <slash:section>apple</slash:section>
+        <slash:comments>191</slash:comments>
+        <slash:hit_parade>191,182,137,123,29,16,12</slash:hit_parade>
+        <feedburner:origLink>http://apple.slashdot.org/story/09/12/18/1626237/iPhone-Has-46-of-Japanese-Smartphone-Market?from=rss</feedburner:origLink>
+    </item>
+
+    <item rdf:about="http://yro.slashdot.org/story/09/12/18/1531216/EU-Demands-Canada-Rework-Its-Copyright-Patent-Law?from=rss">
+        <title>EU Demands Canada Rework Its Copyright, Patent Law</title>
+        <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FMi_UajdGcs/EU-Demands-Canada-Rework-Its-Copyright-Patent-Law</link>
+        <description>
+            An anonymous reader writes "The draft intellectual property text of the EU - Canada Trade Agreement has leaked, with news that the EU is demanding that Canada fundamentally alter copyright, patent, and trademark law. The laundry list of demands includes copyright term extension, WIPO ratification, DMCA-style legislation, resale rights, new enforcement provisions, and following patent, trademark, and design law treaties. The net result is that when combined with the ACTA requirements, Canadian copyright law may cease to be Canadian." Reader TheTurtlesMoves stresses the "first sale doctrine" aspect of the Canada - EU negotiations. Once an artist sells a creative work, should she get a cut of any future resales of that same work? The EU says yes at least for some types of works, and it wants Canada to see things its way. "Europe's Directive 2001/84/EC says that the right covers only 'works of graphic or plastic art such as pictures, collages, paintings, drawings, engravings, prints, lithographs, sculptures, tapestries, ceramics, glassware and photographs, provided they are made by the artist himself or are copies considered to be original works of art.'"&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/1531216/EU-Demands-Canada-Rework-Its-Copyright-Patent-Law?from=rss"&gt;&lt;img src="http://slashdot.org/slashdot-it.pl?from=rss&amp;amp;op=image&amp;amp;style=h0&amp;amp;sid=09/12/18/1531216"&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/09/12/18/1531216/EU-Demands-Canada-Rework-Its-Copyright-Patent-Law?from=rss"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;
+            &lt;p&gt;&lt;a href="http://feedads.g.doubleclick.net/~at/mAwDMrhFBJfEgPIijLHZqT1xMDU/0/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/mAwDMrhFBJfEgPIijLHZqT1xMDU/0/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;br/&gt;
+            &lt;a href="http://feedads.g.doubleclick.net/~at/mAwDMrhFBJfEgPIijLHZqT1xMDU/1/da"&gt;&lt;img src="http://feedads.g.doubleclick.net/~at/mAwDMrhFBJfEgPIijLHZqT1xMDU/1/di" border="0" ismap="true"&gt;&lt;/img&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FMi_UajdGcs" height="1" width="1"/&gt;
+        </description>
+        <dc:creator>kdawson</dc:creator>
+        <dc:date>2009-12-18T16:00:00+00:00</dc:date>
+        <dc:subject>patents</dc:subject>
+        <slash:department>beyond-acta</slash:department>
+        <slash:section>yro</slash:section>
+        <slash:comments>255</slash:comments>
+        <slash:hit_parade>255,251,208,163,42,22,17</slash:hit_parade>
+        <feedburner:origLink>http://yro.slashdot.org/story/09/12/18/1531216/EU-Demands-Canada-Rework-Its-Copyright-Patent-Law?from=rss</feedburner:origLink>
+    </item>
+
+    <textinput rdf:about="http://slashdot.org/search.pl">
+        <title>Search Slashdot</title>
+        <description>Search Slashdot stories</description>
+        <name>query</name>
+        <link>http://slashdot.org/search.pl</link>
+    </textinput>
+
+</rdf:RDF>

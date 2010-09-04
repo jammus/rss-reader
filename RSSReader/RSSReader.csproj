@@ -1,0 +1,243 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DF8B35F3-C4AC-4715-9411-24D9CC4F3BAA}</ProjectGuid>
+    <ProjectTypeGuids>{603c0e0b-db56-11dc-be95-000d561079b0};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RSSReader</RootNamespace>
+    <AssemblyName>RSSReader</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\FeedController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AtomFeedParser.cs" />
+    <Compile Include="Models\FeedService.cs" />
+    <Compile Include="Models\IFeedLoader.cs" />
+    <Compile Include="Models\IFeedRepository.cs" />
+    <Compile Include="Models\NewsItem.cs" />
+    <Compile Include="Models\RDFFeedParser.cs" />
+    <Compile Include="Models\FeedParser.cs" />
+    <Compile Include="Models\RSSFeedParser.cs" />
+    <Compile Include="Models\RSSFeedReader.cs" />
+    <Compile Include="Models\RSSReader.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RSSReader.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Models\SQLFeedRepository.cs" />
+    <Compile Include="Models\UnknownFeedParser.cs" />
+    <Compile Include="Models\RemoteFeedLoader.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\FeedReaderViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\RSSReader.mdf">
+    </Content>
+    <Content Include="App_Data\RSSReader_log.ldf">
+      <DependentUpon>RSSReader.mdf</DependentUpon>
+    </Content>
+    <Content Include="Content\blueprint\ie.css" />
+    <Content Include="Content\blueprint\plugins\buttons\icons\cross.png" />
+    <Content Include="Content\blueprint\plugins\buttons\icons\key.png" />
+    <Content Include="Content\blueprint\plugins\buttons\icons\tick.png" />
+    <Content Include="Content\blueprint\plugins\buttons\readme.txt" />
+    <Content Include="Content\blueprint\plugins\buttons\screen.css" />
+    <Content Include="Content\blueprint\plugins\fancy-type\readme.txt" />
+    <Content Include="Content\blueprint\plugins\fancy-type\screen.css" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\doc.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\email.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\external.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\feed.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\im.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\pdf.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\visited.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\icons\xls.png" />
+    <Content Include="Content\blueprint\plugins\link-icons\readme.txt" />
+    <Content Include="Content\blueprint\plugins\link-icons\screen.css" />
+    <Content Include="Content\blueprint\plugins\rtl\readme.txt" />
+    <Content Include="Content\blueprint\plugins\rtl\screen.css" />
+    <Content Include="Content\blueprint\print.css" />
+    <Content Include="Content\blueprint\screen.css" />
+    <Content Include="Content\blueprint\src\forms.css" />
+    <Content Include="Content\blueprint\src\grid.css" />
+    <Content Include="Content\blueprint\src\grid.png" />
+    <Content Include="Content\blueprint\src\ie.css" />
+    <Content Include="Content\blueprint\src\print.css" />
+    <Content Include="Content\blueprint\src\reset.css" />
+    <Content Include="Content\blueprint\src\typography.css" />
+    <Content Include="Content\images\background.jpg" />
+    <Content Include="Content\images\body_bg.gif" />
+    <Content Include="Content\images\header_bg.gif" />
+    <Content Include="Content\images\header_bg.jpg" />
+    <Content Include="Content\images\rss.jpg" />
+    <Content Include="Content\images\splash.jpg" />
+    <Content Include="Content\images\splash.png" />
+    <Content Include="Content\images\splashback.png" />
+    <Content Include="Content\images\ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
+    <Content Include="Content\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\images\ui-bg_flat_15_cd0a0a_40x100.png" />
+    <Content Include="Content\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\images\ui-bg_glass_100_e4f1fb_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_50_3baae3_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_80_d7ebf9_1x400.png" />
+    <Content Include="Content\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\images\ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
+    <Content Include="Content\images\ui-bg_highlight-hard_70_000000_1x100.png" />
+    <Content Include="Content\images\ui-bg_highlight-soft_100_deedf7_1x100.png" />
+    <Content Include="Content\images\ui-bg_highlight-soft_25_ffef8f_1x100.png" />
+    <Content Include="Content\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\images\ui-icons_2694e8_256x240.png" />
+    <Content Include="Content\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\images\ui-icons_3d80b3_256x240.png" />
+    <Content Include="Content\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\images\ui-icons_72a7cf_256x240.png" />
+    <Content Include="Content\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Content\jquery-ui-1.7.2.custom.css" />
+    <Content Include="Content\RSSReader.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\Feed\FeedViewer.js" />
+    <Content Include="Scripts\jquery-ui-1.7.2.min.js" />
+    <Content Include="Scripts\Plugins\rssAddFeedDialog.js" />
+    <Content Include="Scripts\Plugins\rssChannelPanel.js" />
+    <Content Include="Scripts\Plugins\rssDeleteFeedDialog.js" />
+    <Content Include="Scripts\Plugins\rssFeedListPanel.js" />
+    <Content Include="Views\Feed\Add.aspx" />
+    <Content Include="Views\Feed\AddFeedForm.ascx" />
+    <Content Include="Views\Feed\BlankState.ascx" />
+    <Content Include="Views\Feed\Delete.aspx" />
+    <Content Include="Views\Feed\DeleteFeedForm.ascx" />
+    <Content Include="Views\Feed\ChannelPanel.ascx" />
+    <Content Include="Views\Feed\FeedList.ascx" />
+    <Content Include="Views\Feed\Index.aspx" />
+    <Content Include="Views\Feed\NotFound.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Scripts\jquery-1.3.2.js" />
+    <Content Include="Scripts\jquery-1.3.2.min.js" />
+    <Content Include="Scripts\jquery-1.3.2-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.3.2.min-vsdoc.js" />
+    <Content Include="Scripts\MicrosoftAjax.js" />
+    <Content Include="Scripts\MicrosoftAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.js" />
+    <Content Include="Scripts\MicrosoftMvcAjax.debug.js" />
+    <Content Include="Views\Account\ChangePassword.aspx" />
+    <Content Include="Views\Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Views\Account\LogOn.aspx" />
+    <Content Include="Views\Account\Register.aspx" />
+    <Content Include="Views\Home\About.aspx" />
+    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Shared\Error.aspx" />
+    <Content Include="Views\Shared\LogOnUserControl.ascx" />
+    <Content Include="Views\Shared\Site.Master" />
+    <Content Include="Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Models\RSSReader.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>RSSReader.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Models\RSSReader.dbml.layout">
+      <DependentUpon>RSSReader.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target> -->
+  <Target Name="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(ProjectDir)\..\$(ProjectName)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51171</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
